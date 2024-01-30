@@ -1,32 +1,9 @@
-# 更新于 2024-01-29 20:05:31
+# 更新于 2024-01-30 08:30:36
 
 ## 近15天release更新记录
 | 更新时间 | 项目名称 | 版本 | 更新内容 |
 | :---- | :---- | :---- | :---- |
-|2024-01-28 15:50:31|[dalfox](https://github.com/hahwul/dalfox)|v2.9.2|## Changelog * eeda86c chore: update <br>contributors [skip ci] * d7a245b chore<br>: update contributors [skip ci] * d3a9<br>153 Update logo * 65ae78d Update image<br> * aa4b5ef Update docs * d58a|
-|2024-01-28 04:25:57|[PEASS-ng](https://github.com/carlospolop/PEASS-ng)|2024012<br>8-3084e4<br>e1||
-|2024-01-27 13:15:49|[locust](https://github.com/locustio/locust)|2.21.0|## What's Changed * setting initial _<br>cp_last_run on TaskSet in order to all<br>ow constant_pacing wait time strategy <br>by @ionutab in https://github.com/locu<br>stio/locust/pull/2533 * Updat|
-|2024-01-26 15:19:39|[grype](https://github.com/anchore/grype)|v0.74.3|### Bug Fixes - Fix matching when RPM<br> modularity is a factor  @wagoodman] -<br> VEX documents not taken into account <br>when --fail-on is set   @ferozsalam] #<br>## Additional Changes - break|
-|2024-01-26 14:43:07|[syft](https://github.com/anchore/syft)|v0.102.<br>0|### Added Features - Swap format uses<br> of io.ReadSeeker for io.Reader  @wago<br>odman] - Cataloger interface should ac<br>cept context.Context   @wagoodman] ###<br> Bug Fixes - Implement golang|
-|2024-01-26 09:45:49|[PyWxDump](https://github.com/xaoyaoo/PyWxDump)|v2.4.28| |
-|2024-01-26 09:36:58|[Elkeid](https://github.com/bytedance/Elkeid)|rasp-v2<br>.2.1.6-s<br>canclass||
-|2024-01-25 14:50:19|[rengine](https://github.com/yogeshojha/rengine)|v2.0.3|### Bug Fixes ## What's Changed * CI:<br> update GitHub action versions by @jxd<br>v in https://github.com/yogeshojha/ren<br>gine/pull/1136 * Fixed (subdomain_disc<br>overy | ERROR | local variabl|
-|2024-01-25 13:59:37|[codeql-cli-binari<br>es](https://github.com/github/codeql-cli-binaries)|v2.16.1|### Improvements - When executing the<br> codeql database init command, the Cod<br>eQL runner executable path is now stor<br>ed in the CODEQL_RUNNER environment va<br>riable. Users of indirect tra|
-|2024-01-25 04:06:01|[jumpserver](https://github.com/jumpserver/jumpserver)|v3.10.3|# 一、安装和升级 ## 1.1 在线方式 ✈️<br> 仅需两步快速安装 JumpServer： 1. 准备<br>一台 4核8G （最低）且可以访问互联网的 6<br>4 位 Linux 主机； 2. 以 root 用户执行<br>如下命令一键安装 JumpServer。 国内用户 <br> sh curl -sSL https://resource.fit2clo<br>ud.com/jumpser|
-|2024-01-25 03:26:17|[fofaEX](https://github.com/10cks/fofaEX)|3.2|# 更新 1. 提供资产探测流程执行自动化 <br>2. 提供更多的插件： 3. 提供打开文件支<br>持更多格式（csv/json/xlsx），数据与插件<br>直接对接，可执行自动化 # bug 修复 修复m<br>ac设置问题|
-|2024-01-24 11:45:57|[Pillager](https://github.com/qwqdanchun/Pillager)|AutoBui<br>ld||
-|2024-01-23 20:44:45|[faker](https://github.com/joke2k/faker)|v22.5.1|See .|
-|2024-01-23 13:39:41|[WeChatMsg](https://github.com/LC044/WeChatMsg)|v1.0.6|支持3.9.9.35版本|
-|2024-01-22 21:53:47|[nuclei](https://github.com/projectdiscovery/nuclei)|v3.1.7| ## What's Changed * **Added support <br>to upload result to existing pdpc scan<br> using -scan-id option** by @tarunKoya<br>lwar in https://github.com/projectdisc<br>overy/nuclei/pull/4662 bash $|
-|2024-01-22 10:41:52|[ObserverWard](https://github.com/0x727/ObserverWard)|v2024.1<br>.22|## [2024.1.22] - 2024.1.22 ### Fixes <br>- 添加nuclei默认目录，无论有没有识别到<br>指纹都使用该目录的插件验证漏洞，用于验<br>证通用web漏洞。 - 需要在--plugins指定的<br>目录下创建default文件夹，然后将通用的nu<br>clei插件yaml复制到该文件夹。|
-|2024-01-21 19:01:51|[dbeaver](https://github.com/dbeaver/dbeaver)|23.3.3| - Metadata editor: - Object creation<br> dialog was redesigned - SQL Editor: -<br> Autocomplete for INSERT statements wa<br>s fixed - Case sensitivity on highligh<br>ting and validation was fixed|
-|2024-01-21 16:02:24|[ImageMagick](https://github.com/ImageMagick/ImageMagick)|7.1.1-2<br>7|## What's Changed * fix PKG_CONFIG_LI<br>BDIR by @remicollet in https://github.<br>com/ImageMagick/ImageMagick/pull/7013 <br>**Full Changelog**: https://github.com<br>/ImageMagick/ImageMagick/comp|
-|2024-01-21 11:56:58|[ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)|v3.1.8|#### 🐞 Bug Fixes - 🔄 fix(commu-prom<br>pts): Resolved loading and search erro<br>rs in community prompts. - 📚 fix(favo<br>rites): Addressed display issues with <br>long titles in "My Favorites". -|
-|2024-01-20 16:16:48|[naabu](https://github.com/projectdiscovery/naabu)|v2.2.1| ## What's Changed ### Other Changes <br>* Added host discovery in NewRunner by<br> @dogancanbakir in https://github.com/<br>projectdiscovery/naabu/pull/899 * Fixe<br>d issue with csv output by @d|
-|2024-01-19 09:00:52|[FreeRDP](https://github.com/FreeRDP/FreeRDP)|3.2.0| This release mostly addresses issues<br> reported since the last release. Fixi<br>ng some usablity and build issues as w<br>ell as adding API functions that are n<br>eeded from external projects |
-|2024-01-17 13:31:23|[suo5](https://github.com/zema1/suo5)|v1.1.0|Server 端从这里获取 https://github.co<br>m/zema1/suo5/tree/v1.1.0/assets ，不同<br>版本的 Server 端请不要混用，否则会有不<br>兼容连不上的问题 > 带 gui 的版本是界面<br>版，不带 gui 的为命令行版 > 所有编译由 <br>Github Action 自动构建并自动上传，请放<br>心使用 ### 新增 - 增加 .N|
-|2024-01-15 23:42:08|[neuvector](https://github.com/neuvector/neuvector)|v5.2.4-<br>s1||
-|2024-01-15 08:03:39|[Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)|release<br>/2.0.2|### v2.0.2 日常修Bug，小迭代版本。 - <br>更新：全局设置可调节 图片文字叠加层开启<br>/关闭默认显示状态。 (#264) - 优化：输<br>出为txt 单独文件时，将应用指定路径参数<br>。 (#269) - 优化：段落合并-多行-代码段 <br>去除结尾多余换行符。 (#292) - 优化：渲<br>染器不兼容时，减少渲染层级错误的影响。 <br>(#259) - 修复：清理图片缓存|
+
 ## 近15天commit提交记录
 | 提交时间 | 项目名称 | 更新内容 |
 | :---- | :---- | :---- |
@@ -114,7 +91,7 @@
 #### 开源平台
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [GZCTF](https://github.com/GZTimeWalker/GZCTF) | v0.17.7 | The GZ::CTF project, an open sourc<br>e CTF platform. | 2024-01-28 13:39:04 |
+| [GZCTF](https://github.com/GZTimeWalker/GZCTF) |  |  | 2024-01-28 13:39:04 |
 | [MarsCTF](https://github.com/b1ackc4t/MarsCTF) | V1.2.1 | Vue+Springboot开发的CTF学习平台，<br>提供动态靶机、学习模块、writeup模块<br>等等CTF平台的核心功能。提供docker版<br>本 | 2022-08-09 12:20:31 |
 | [Cardinal](https://github.com/vidar-team/Cardinal) | v0.7.3 | CTF🚩 AWD (Attack with Defense) 线<br>下赛平台 / AWD platform - 欢迎 Star~<br> ✨ | 2021-11-12 18:17:48 |
 | [JJUCTF_V2.0](https://github.com/BJLIYANLIANG/JJUCTF_V2.0) |  | JJU网络安全靶场实训平台 | 2021-05-01 10:38:51 |
@@ -151,20 +128,20 @@
 ##### RSA
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) |  | RSA attack tool (mainly for ctf) -<br> retrieve private key from weak pub<br>lic key and/or uncipher data | 2024-01-19 09:09:34 |
+| [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) |  |  | 2024-01-19 09:09:34 |
 | [RSA](https://github.com/Mr-Aur0ra/RSA) |  |  | 2022-08-22 15:31:16 |
 | [CTF-RSA-tool](https://github.com/6u661e/CTF-RSA-tool) |  | a little tool help CTFer solve RSA<br> problem | 2018-08-26 09:17:20 |
 | [rsa-wiener-attack](https://github.com/pablocelayes/rsa-wiener-attack) |  | A Python implementation of the Wie<br>ner attack on RSA public-key encryp<br>tion scheme. | 2017-02-25 17:52:55 |
 ##### 国密
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [gmhelper](https://github.com/ZZMarquis/gmhelper) |  | 基于BC库：国密SM2/SM3/SM4算法简单<br>封装；实现SM2 X509v3证书的签发；实现<br>SM2 pfx证书的签发 | 2023-11-12 03:07:34 |
-| [sm-crypto](https://github.com/JuneAndGreen/sm-crypto) |  | 国密算法js版 | 2023-11-07 12:40:00 |
+| [gmhelper](https://github.com/ZZMarquis/gmhelper) |  |  | 2023-11-12 03:07:34 |
+| [sm-crypto](https://github.com/JuneAndGreen/sm-crypto) |  |  | 2023-11-07 12:40:00 |
 ### Misc
 #### 16进制编辑
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [ImHex](https://github.com/WerWolv/ImHex) | v1.32.2 | 🔍 A Hex Editor for Reverse Engine<br>ers, Programmers and people who val<br>ue their retinas when working at 3 <br>AM. | 2024-01-28 21:14:59 |
+| [ImHex](https://github.com/WerWolv/ImHex) |  |  | 2024-01-28 21:14:59 |
 #### 二维码批量识别
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
@@ -199,13 +176,13 @@
 #### pyc逆向
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) | 2023.12 | PyInstaller Extractor | 2024-01-20 12:36:02 |
-| [python-uncompyle6](https://github.com/rocky/python-uncompyle6) | 3.9.0 | A cross-version Python bytecode de<br>compiler | 2024-01-19 23:16:30 |
+| [pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) |  |  | 2024-01-20 12:36:02 |
+| [python-uncompyle6](https://github.com/rocky/python-uncompyle6) |  |  | 2024-01-19 23:16:30 |
 | [stegosaurus](https://github.com/AngelKitty/stegosaurus) | 1.0 | A steganography tool for embedding<br> payloads within Python bytecode. | 2019-10-07 13:15:43 |
 #### 查壳
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [DIE-engine](https://github.com/horsicq/DIE-engine) | 3.09 | DIE engine | 2024-01-28 07:51:39 |
+| [DIE-engine](https://github.com/horsicq/DIE-engine) |  |  | 2024-01-28 07:51:39 |
 ### Web
 #### 定向目录扫描
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
@@ -214,10 +191,10 @@
 ### 相关资源
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [ctf-archives](https://github.com/sajjadium/ctf-archives) |  |  CTF Archives: Collection of CTF C<br>hallenges. | 2024-01-27 22:42:20 |
-| [CTFd](https://github.com/CTFd/CTFd) | 3.6.1 | CTFs as you need them | 2024-01-27 06:58:22 |
-| [CTF-QuickStart](https://github.com/ProbiusOfficial/CTF-QuickStart) |  | 源仓库存档 | 2024-01-19 01:08:28 |
-| [BerylEnigma](https://github.com/ffffffff0x/BerylEnigma) | 1.15.0 | ffffffff0x team toolset for penetr<br>ation testing, cryptography researc<br>h, CTF and daily use. | ffffffff0x <br>团队工具集，用来进行渗透测试，密码学<br>研究，CTF和日常使用。 | 2023-11-03 01:51:33 |
+| [ctf-archives](https://github.com/sajjadium/ctf-archives) |  |  | 2024-01-27 22:42:20 |
+| [CTFd](https://github.com/CTFd/CTFd) |  |  | 2024-01-27 06:58:22 |
+| [CTF-QuickStart](https://github.com/ProbiusOfficial/CTF-QuickStart) |  |  | 2024-01-19 01:08:28 |
+| [BerylEnigma](https://github.com/ffffffff0x/BerylEnigma) |  |  | 2023-11-03 01:51:33 |
 | [CTFd_chinese_CN](https://github.com/Gu-f/CTFd_chinese_CN) | v1.2.0 | 对CTFd平台各版本的汉化记录。key:中<br>文、汉化、翻译、chinese、CN、CTFd | 2023-09-16 07:11:09 |
 | [SecToolKit](https://github.com/ProbiusOfficial/SecToolKit) |  | Cybersecurity tool repository / Wi<br>ki 收录常用 / 前沿 的CTF和渗透工具<br>以及其 官方/使用 文档，致力于让每个<br>工具都能发挥作用ww，不管你是萌新还是<br>领域从业者希望你都能在这里找到适合你<br>的工具或者获得一定的启发。 | 2023-09-02 12:11:27 |
 | [CTFtools-wiki](https://github.com/ProbiusOfficial/CTFtools-wiki) |  | 【Hello CTF】录常用 / 优秀 的CTF工<br>具项目及其文档,一个对各阶段CTFer都很<br>友好的工具仓库,让所有的工具都发挥作<br>用！ | 2023-07-07 13:19:18 |
@@ -247,7 +224,7 @@
 ###### 用友OA
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [NCTOOls](https://github.com/wafinfo/NCTOOls) |  | 一款针对用友NC综合漏洞利用工具 | 2023-11-27 06:09:58 |
+| [NCTOOls](https://github.com/wafinfo/NCTOOls) |  |  | 2023-11-27 06:09:58 |
 | [YongYouNcTool](https://github.com/wgpsec/YongYouNcTool) | 1.0 | 用友NC系列漏洞检测利用工具，支持一<br>键检测、命令执行回显、文件落地、一键<br>打入内存马、文件读取等 | 2023-08-19 14:50:28 |
 | [fupo_for_yonyou](https://github.com/novysodope/fupo_for_yonyou) | 2.0RC1 | 用友漏洞检测，持续更新漏洞检测模块 | 2023-08-08 07:10:46 |
 | [yonyou_exp_plus](https://github.com/li8u99/yonyou_exp_plus) |  | 用友系列全漏洞检测工具 | 2023-04-10 00:55:59 |
@@ -283,7 +260,7 @@
 ###### Apache Log4j
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [logging-log4j2](https://github.com/apache/logging-log4j2) | rel/3.0<br>.0-beta1 | Apache Log4j 2 is a versatile, fea<br>ture-rich, efficient logging API an<br>d backend for Java. | 2024-01-26 08:55:35 |
+| [logging-log4j2](https://github.com/apache/logging-log4j2) |  |  | 2024-01-26 08:55:35 |
 | [log4jscanner](https://github.com/google/log4jscanner) | v0.5.0 | A log4j vulnerability filesystem s<br>canner and Go package for analyzing<br> JAR files. | 2022-05-25 22:02:38 |
 | [Log4j2-CVE-2021-4<br>4228](https://github.com/jas502n/Log4j2-CVE-2021-44228) |  | Remote Code Injection In Log4j | 2022-01-18 12:01:52 |
 | [CVE-2021-44228-Po<br>C-log4j-bypass-wor<br>ds](https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words) |  | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LO<br>G4J Java exploit - WAF bypass trick<br>s | 2022-01-15 16:18:44 |
@@ -356,7 +333,7 @@
 ###### Grafana
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [grafanaExp](https://github.com/A-D-Team/grafanaExp) | V1.1 | A exploit tool for Grafana Unautho<br>rized arbitrary file reading vulner<br>ability (CVE-2021-43798), it can bu<br>rst plugins / extract secret_key / <br>decrypt data_source info automatic. | 2023-11-07 02:48:45 |
+| [grafanaExp](https://github.com/A-D-Team/grafanaExp) |  |  | 2023-11-07 02:48:45 |
 ###### Hikvision
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
@@ -392,7 +369,7 @@
 ###### Thinkphp
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) |  | 基于 ThinkPHP6 的极简后台管理系统<br>，内置注解权限、异步多任务、应用插件<br>生态等，支持类 PaaS 更新公共模块和应<br>用插件，插件可本地化定制开发。 | 2024-01-16 03:22:30 |
+| [ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) |  |  | 2024-01-16 03:22:30 |
 | [VulnerabilityTool<br>s](https://github.com/bingtangbanli/VulnerabilityTools) |  | [CVE_2023_28432漏洞 、CVE_2023_323<br>15漏洞、 ThinkPHP 2.x 任意代码执行<br>漏洞 、ThinkPHP5 5.0.22/5.1.29 远程<br>代码执行漏洞、 ThinkPHP5 5.0.23 远程<br>代码执行漏洞 ThinkPHP 多语言本地文件<br>包含漏洞] | 2023-08-31 06:46:17 |
 | [Aazhen-RexHa](https://github.com/zangcc/Aazhen-RexHa) |  | 自研JavaFX图形化漏洞扫描工具，支持<br>扫描的漏洞分别是： ThinkPHP-2.x-RCE<br>， ThinkPHP-5.0.23-RCE， ThinkPHP5.0<br>.x-5.0.23通杀RCE， ThinkPHP5-SQL注<br>入&敏感信息泄露， ThinkPHP 3.x 日志<br>泄露NO.1， ThinkPHP 3.x 日志泄露NO.2<br>， ThinkPHP 5.x 数 | 2023-03-27 07:38:18 |
 | [TPscan](https://github.com/Lucifer1993/TPscan) |  | 一键ThinkPHP漏洞检测 | 2022-09-28 09:27:15 |
@@ -463,7 +440,7 @@
 ###### heapdump泄露
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [heapdump_tool](https://github.com/wyzxxz/heapdump_tool) |  | heapdump敏感信息查询工具，例如查找<br> spring heapdump中的密码明文，AK,SK<br>等 | 2023-11-07 10:53:08 |
+| [heapdump_tool](https://github.com/wyzxxz/heapdump_tool) |  |  | 2023-11-07 10:53:08 |
 | [JDumpSpider](https://github.com/whwlsfb/JDumpSpider) | dev-202<br>30406T03<br>1230 | HeapDump敏感信息提取工具 | 2023-04-06 03:11:35 |
 ###### idea
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
@@ -531,8 +508,8 @@
 ###### SQL注入
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [sqlmap](https://github.com/sqlmapproject/sqlmap) | 1.8 | Automatic SQL injection and databa<br>se takeover tool | 2024-01-17 11:06:05 |
-| [ghauri](https://github.com/r0oth3x49/ghauri) | 1.3 | An advanced cross-platform tool th<br>at automates the process of detecti<br>ng and exploiting SQL injection sec<br>urity flaws | 2024-01-04 11:56:25 |
+| [sqlmap](https://github.com/sqlmapproject/sqlmap) |  |  | 2024-01-17 11:06:05 |
+| [ghauri](https://github.com/r0oth3x49/ghauri) |  |  | 2024-01-04 11:56:25 |
 | [MSSQL_SQL_BYPASS_<br>WIKI](https://github.com/aleenzz/MSSQL_SQL_BYPASS_WIKI) |  | MSSQL注入提权,bypass的一些总结 | 2023-02-16 16:25:30 |
 | [MYSQL_SQL_BYPASS_<br>WIKI](https://github.com/aleenzz/MYSQL_SQL_BYPASS_WIKI) |  | mysql注入,bypass的一些心得 | 2023-02-16 16:24:50 |
 | [sql-injection-pay<br>load-list](https://github.com/payloadbox/sql-injection-payload-list) |  | 🎯 SQL Injection Payload List | 2021-06-09 17:45:57 |
@@ -550,8 +527,8 @@
 ###### XSS
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [dalfox](https://github.com/hahwul/dalfox) | v2.9.2 | 🌙🦊 Dalfox is a powerful open-sou<br>rce XSS scanner and utility focused<br> on automation. | 2024-01-28 16:21:35 |
-| [beef](https://github.com/beefproject/beef) | v0.5.4.<br>0 | The Browser Exploitation Framework<br> Project | 2024-01-24 17:49:31 |
+| [dalfox](https://github.com/hahwul/dalfox) |  |  | 2024-01-28 16:21:35 |
+| [beef](https://github.com/beefproject/beef) |  |  | 2024-01-24 17:49:31 |
 | [Chromium-based-XS<br>S-Taint-Tracking](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking) | v0.3 | Cyclops 是一款具有 XSS 检测功能的<br>浏览器 | 2022-06-05 23:43:51 |
 | [xsscrapy](https://github.com/DanMcInerney/xsscrapy) |  | XSS spider - 66/66 wavsep XSS dete<br>cted | 2022-04-25 16:15:45 |
 | [XSStrike](https://github.com/s0md3v/XSStrike) | 3.1.5 | Most advanced XSS scanner. | 2022-03-20 10:19:57 |
@@ -577,7 +554,7 @@
 ##### 漏洞利用辅助
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [ysomap](https://github.com/wh1t3p1g/ysomap) | v0.1.5 | A helpful Java Deserialization exp<br>loit framework. | 2023-12-20 07:41:33 |
+| [ysomap](https://github.com/wh1t3p1g/ysomap) |  |  | 2023-12-20 07:41:33 |
 | [Exp-Tools](https://github.com/cseroad/Exp-Tools) | v1.2.3 | 一款集成高危漏洞exp的实用性工具 | 2023-10-15 07:28:21 |
 | [DNSlog-GO](https://github.com/lanyi1998/DNSlog-GO) | master | DNSLog-GO 是一款golang编写的监控 D<br>NS 解析记录的工具，自带WEB界面 / DN<br>SLog-GO is a monitoring tool writte<br>n in Golang that monitors DNS resol<br>ution records. It comes with a web <br>interface. | 2023-10-08 02:32:31 |
 | [ddddocr](https://github.com/sml2h3/ddddocr) |  | 带带弟弟 通用验证码识别OCR pypi版 | 2023-08-30 13:24:01 |
@@ -602,12 +579,12 @@
 ##### 漏洞文库
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) |  | 📡 PoC auto collect from GitHub. <br>⚠️ Be careful Malware. | 2024-01-29 00:25:44 |
-| [FrameVul](https://github.com/Awrrays/FrameVul) |  | POC集合，框架nday漏洞利用 | 2024-01-04 09:26:20 |
-| [Vulhub-Reproduce](https://github.com/Threekiii/Vulhub-Reproduce) |  | 一个Vulhub漏洞复现知识库 | 2024-01-04 03:13:18 |
-| [Vulnerability-Wik<br>i](https://github.com/Threekiii/Vulnerability-Wiki) | v1.0 | 基于 docsify 部署，目前漏洞数量 10<br>00+ | 2024-01-04 03:12:12 |
-| [Awesome-POC](https://github.com/Threekiii/Awesome-POC) |  | 一个漏洞POC知识库 | 2023-11-30 09:43:04 |
-| [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book) |  | 面向网络安全从业者的知识文库🍃 | 2023-11-08 06:09:01 |
+| [PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) |  |  | 2024-01-29 00:25:44 |
+| [FrameVul](https://github.com/Awrrays/FrameVul) |  |  | 2024-01-04 09:26:20 |
+| [Vulhub-Reproduce](https://github.com/Threekiii/Vulhub-Reproduce) |  |  | 2024-01-04 03:13:18 |
+| [Vulnerability-Wik<br>i](https://github.com/Threekiii/Vulnerability-Wiki) |  |  | 2024-01-04 03:12:12 |
+| [Awesome-POC](https://github.com/Threekiii/Awesome-POC) |  |  | 2023-11-30 09:43:04 |
+| [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book) |  |  | 2023-11-08 06:09:01 |
 | [PoC-ExP](https://github.com/Cuerz/PoC-ExP) |  | 【漏洞Poc知识库】一个网络安全爱好<br>者对网络上一些已知漏洞payload的收录<br>，持续更新。并编写了利用脚本，可用于<br>日常学习或批量的src漏洞挖掘 | 2022-09-23 05:22:17 |
 | [bylibrary](https://github.com/BaizeSec/bylibrary) |  | 白阁文库是白泽Sec安全团队维护的一<br>个漏洞POC和EXP公开项目 | 2022-08-15 14:27:05 |
 | [vulbase](https://github.com/cckuailong/vulbase) |  | 各大漏洞文库合集 | 2021-10-05 01:04:37 |
@@ -619,8 +596,8 @@
 ##### 漏洞检测利用仓库
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [PocOrExp_in_Githu<br>b](https://github.com/ycdxsb/PocOrExp_in_Github) |  | 聚合Github上已有的Poc或者Exp，CVE<br>信息来自CVE官网。Auto Collect Poc Or<br> Exp from Github by CVE ID. | 2024-01-28 23:47:07 |
-| [vulnerability](https://github.com/lal0ne/vulnerability) |  | 收集、整理、修改互联网上公开的漏洞<br>POC | 2024-01-25 05:32:31 |
+| [PocOrExp_in_Githu<br>b](https://github.com/ycdxsb/PocOrExp_in_Github) |  |  | 2024-01-28 23:47:07 |
+| [vulnerability](https://github.com/lal0ne/vulnerability) |  |  | 2024-01-25 05:32:31 |
 | [0day](https://github.com/helloexp/0day) |  | 各种CMS、各种平台、各种系统、各种<br>软件漏洞的EXP、POC ,该项目将持续更新 | 2023-09-12 00:57:05 |
 | [Some-PoC-oR-ExP](https://github.com/coffeehb/Some-PoC-oR-ExP) |  | 各种漏洞poc、Exp的收集或编写 | 2023-08-23 07:23:32 |
 | [Awesome-Exploit](https://github.com/Threekiii/Awesome-Exploit) |  | 一个漏洞利用工具仓库 | 2023-07-05 01:49:54 |
@@ -637,7 +614,7 @@
 ##### 重点CMS利用
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [wpscan](https://github.com/wpscanteam/wpscan) | v3.8.25 | WPScan WordPress security scanner.<br> Written for security professionals<br> and blog maintainers to test the s<br>ecurity of their WordPress websites<br>. Contact us via contact@wpscan.com | 2023-12-01 17:44:24 |
+| [wpscan](https://github.com/wpscanteam/wpscan) |  |  | 2023-12-01 17:44:24 |
 | [Apt_t00ls](https://github.com/White-hua/Apt_t00ls) | v0.7 | 高危漏洞利用工具 | 2023-08-13 12:33:36 |
 | [QVD-2023-13065](https://github.com/qi4L/QVD-2023-13065) |  | Nacos JRaft Hessian 反序列化 RCE E<br>XP | 2023-06-13 09:56:04 |
 | [CVE-2023-33246](https://github.com/SuperZero/CVE-2023-33246) |  | Apache RocketMQ 远程代码执行漏洞(C<br>VE-2023-33246) Exploit | 2023-06-01 05:54:25 |
@@ -663,15 +640,15 @@
 ###### java
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [codeql-cli-binari<br>es](https://github.com/github/codeql-cli-binaries) | v2.16.1 | Binaries for the CodeQL CLI | 2024-01-25 13:57:50 |
-| [jar-analyzer-gui](https://github.com/4ra1n/jar-analyzer-gui) | 1.1 | 建议使用新版：https://github.com/j<br>ar-analyzer/jar-analyzer | 2023-11-30 03:59:12 |
+| [codeql-cli-binari<br>es](https://github.com/github/codeql-cli-binaries) |  |  | 2024-01-25 13:57:50 |
+| [jar-analyzer-gui](https://github.com/4ra1n/jar-analyzer-gui) |  |  | 2023-11-30 03:59:12 |
 | [CodeQLpy](https://github.com/webraybtl/CodeQLpy) |  | CodeQLpy是一款基于CodeQL实现的半自<br>动化代码审计工具，目前仅支持java语言<br>。实现从源码反编译，数据库生成，脆弱<br>性发现的全过程，可以辅助代码审计人员<br>快速定位源码可能存在的漏洞。 | 2023-07-06 06:32:34 |
 | [code-inspector](https://github.com/4ra1n/code-inspector) | 0.2-bet<br>a | JavaWeb漏洞审计工具，构建方法调用<br>链并模拟栈帧进行分析 | 2023-06-03 16:43:44 |
 | [JVWA](https://github.com/ffffffff0x/JVWA) |  | java 代码审计学习靶场 | 2023-05-28 11:11:53 |
 ###### other
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [murphysec](https://github.com/murphysecurity/murphysec) | v3.1.1 | An open source tool focused on sof<br>tware supply chain security. 墨菲安<br>全专注于软件供应链安全，具备专业的软<br>件成分分析（SCA）、漏洞检测、专业漏<br>洞库。 | 2024-01-26 08:40:29 |
+| [murphysec](https://github.com/murphysecurity/murphysec) |  |  | 2024-01-26 08:40:29 |
 | [Kunlun-M](https://github.com/LoRexxar/Kunlun-M) | v2.6.5 | KunLun-M是一个完全开源的静态白盒扫<br>描工具，支持PHP、JavaScript的语义扫<br>描，基础安全、组件安全扫描，Chrome E<br>xt\Solidity的基础扫描。 | 2023-10-25 03:49:28 |
 | [fortify](https://github.com/liweibin123/fortify) |  | fortify内置规则加密破解 | 2020-07-10 03:38:21 |
 ###### python
@@ -682,13 +659,13 @@
 ##### 信息泄露监控
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [gshark](https://github.com/madneal/gshark) | v1.4.0 | Scan for sensitive information eas<br>ily and effectively. | 2024-01-27 11:50:44 |
+| [gshark](https://github.com/madneal/gshark) |  |  | 2024-01-27 11:50:44 |
 | [code6](https://github.com/4x99/code6) | 1.6.4 | 码小六 - GitHub 代码泄露监控系统 | 2023-04-27 08:45:04 |
 ##### 半自动漏洞扫描
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [nuclei](https://github.com/projectdiscovery/nuclei) | v3.1.7 | Fast and customizable vulnerabilit<br>y scanner based on simple YAML base<br>d DSL. | 2024-01-28 23:50:01 |
-| [afrog](https://github.com/zan8in/afrog) | v2.9.9 | A Security Tool for Bug Bounty, Pe<br>ntest and Red Teaming. | 2024-01-23 00:54:31 |
+| [nuclei](https://github.com/projectdiscovery/nuclei) |  |  | 2024-01-28 23:50:01 |
+| [afrog](https://github.com/zan8in/afrog) |  |  | 2024-01-23 00:54:31 |
 | [Fvuln](https://github.com/d3ckx1/Fvuln) | Fvuln-1<br>.4.9 | F-vuln（全称：Find-Vulnerability）<br>是为了自己工作方便专门编写的一款自动<br>化工具，主要适用于日常安全服务、渗透<br>测试人员和RedTeam红队人员，它集合的<br>功能包括：存活IP探测、开放端口探测、<br>web服务探测、web漏洞扫描、smb爆破、<br>ssh爆破、ftp爆破、mssql爆破等其他数<br>据库爆破工作以及大量web漏洞检测模块<br>。 | 2023-07-22 02:03:42 |
 | [POC-bomber](https://github.com/tr0uble-mAker/POC-bomber) | POC-bom<br>ber-for-<br>Redteam-<br>v3.0.0 | 利用大量高威胁poc/exp快速获取目标<br>权限，用于渗透和红队快速打点 | 2023-06-09 13:20:09 |
 | [xray](https://github.com/chaitin/xray) | 1.9.11 | 一款完善的安全评估工具，支持常见 w<br>eb 安全问题扫描和自定义 poc | 使用<br>之前务必先阅读文档 | 2023-05-24 10:30:30 |
@@ -702,7 +679,7 @@
 ##### 口令爆破
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [john](https://github.com/openwall/john) |  | John the Ripper jumbo - advanced o<br>ffline password cracker, which supp<br>orts hundreds of hash and cipher ty<br>pes, and runs on many operating sys<br>tems, CPUs, GPUs, and even some FPG<br>As | 2024-01-17 23:08:42 |
+| [john](https://github.com/openwall/john) |  |  | 2024-01-17 23:08:42 |
 | [thc-hydra](https://github.com/vanhauser-thc/thc-hydra) | v9.5 | hydra | 2023-08-13 11:07:10 |
 | [thc-hydra-windows](https://github.com/maaaaz/thc-hydra-windows) | v9.1 | The great THC-HYDRA tool compiled <br>for Windows | 2023-02-06 09:01:04 |
 | [ssb](https://github.com/pwnesia/ssb) | v0.1.1 | Secure Shell Bruteforcer — A fast<br>er & simpler way to bruteforce SSH <br>server | 2021-12-17 06:56:13 |
@@ -716,7 +693,7 @@
 ##### 安卓漏洞扫描
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [appshark](https://github.com/bytedance/appshark) | v0.1.2 | Appshark is a static taint analysi<br>s platform to scan vulnerabilities <br>in an Android app. | 2024-01-12 03:28:02 |
+| [appshark](https://github.com/bytedance/appshark) |  |  | 2024-01-12 03:28:02 |
 ##### 微信小程序辅助
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
@@ -741,7 +718,7 @@
 #### K8S基线核查
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [kube-bench](https://github.com/aquasecurity/kube-bench) | v0.7.0 | Checks whether Kubernetes is deplo<br>yed according to security best prac<br>tices as defined in the CIS Kuberne<br>tes Benchmark | 2024-01-28 10:21:47 |
+| [kube-bench](https://github.com/aquasecurity/kube-bench) |  |  | 2024-01-28 10:21:47 |
 #### K8S漏洞扫描
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
@@ -749,8 +726,8 @@
 #### 云原生安全平台
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [containerd](https://github.com/containerd/containerd) | v1.7.12 | An open and reliable container run<br>time | 2024-01-28 09:01:11 |
-| [neuvector](https://github.com/neuvector/neuvector) | v5.2.4-<br>s1 |  | 2024-01-27 03:18:21 |
+| [containerd](https://github.com/containerd/containerd) |  |  | 2024-01-28 09:01:11 |
+| [neuvector](https://github.com/neuvector/neuvector) |  |  | 2024-01-27 03:18:21 |
 | [ThunderCloud](https://github.com/Rnalter/ThunderCloud) |  | Cloud Exploit Framework | 2022-05-11 14:49:31 |
 #### 云原生攻防靶场
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
@@ -759,15 +736,15 @@
 #### 容器安全扫描
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [trivy](https://github.com/aquasecurity/trivy) | v0.48.3 | Find vulnerabilities, misconfigura<br>tions, secrets, SBOM in containers,<br> Kubernetes, code repositories, clo<br>uds and more | 2024-01-26 10:52:25 |
+| [trivy](https://github.com/aquasecurity/trivy) |  |  | 2024-01-26 10:52:25 |
 #### 容器安全检测工具
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [veinmind-tools](https://github.com/chaitin/veinmind-tools) | v2.1.5 | veinmind-tools 是由长亭科技自研，<br>基于 veinmind-sdk 打造的容器安全工具<br>集 | 2024-01-10 09:08:30 |
+| [veinmind-tools](https://github.com/chaitin/veinmind-tools) |  |  | 2024-01-10 09:08:30 |
 #### 容器漏洞分析工具
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [clair](https://github.com/quay/clair) | v4.7.2 | Vulnerability Static Analysis for <br>Containers | 2024-01-23 15:11:30 |
+| [clair](https://github.com/quay/clair) |  |  | 2024-01-23 15:11:30 |
 #### 容器漏洞利用工具
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
@@ -779,8 +756,8 @@
 #### 容器镜像扫描
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [syft](https://github.com/anchore/syft) | v0.102.<br>0 | CLI tool and library for generatin<br>g a Software Bill of Materials from<br> container images and filesystems | 2024-01-26 17:16:26 |
-| [grype](https://github.com/anchore/grype) | v0.74.3 | A vulnerability scanner for contai<br>ner images and filesystems | 2024-01-26 17:15:39 |
+| [syft](https://github.com/anchore/syft) |  |  | 2024-01-26 17:16:26 |
+| [grype](https://github.com/anchore/grype) |  |  | 2024-01-26 17:15:39 |
 ### 信息收集
 #### C段信息收集
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
@@ -798,7 +775,7 @@
 #### apk
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [Mobile-Security-F<br>ramework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | v3.7.6 | Mobile Security Framework (MobSF) <br>is an automated, all-in-one mobile <br>application (Android/iOS/Windows) p<br>en-testing, malware analysis and se<br>curity assessment framework capable<br> of pe | 2024-01-24 17:00:04 |
+| [Mobile-Security-F<br>ramework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) |  |  | 2024-01-24 17:00:04 |
 | [ApkAnalyser](https://github.com/TheKingOfDuck/ApkAnalyser) |  | 一键提取安卓应用中可能存在的敏感信<br>息。 | 2021-10-21 02:33:58 |
 #### 企业信息收集
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
@@ -816,7 +793,7 @@
 #### 子域名收集
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [subfinder](https://github.com/projectdiscovery/subfinder) | v2.6.4 | Fast passive subdomain enumeration<br> tool. | 2024-01-22 15:03:18 |
+| [subfinder](https://github.com/projectdiscovery/subfinder) |  |  | 2024-01-22 15:03:18 |
 | [OneForAll](https://github.com/shmilylty/OneForAll) | v0.4.5 | OneForAll是一款功能强大的子域收集<br>工具 | 2023-04-17 01:34:19 |
 | [github-subdomains](https://github.com/gwen001/github-subdomains) | v1.2.2 | Find subdomains on GitHub. | 2023-03-28 15:47:04 |
 | [subDomainsBrute](https://github.com/lijiejie/subDomainsBrute) | v1.4 | A fast sub domain brute tool for p<br>entesters | 2022-09-15 17:02:36 |
@@ -833,8 +810,8 @@
 #### 指纹识别
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [FingerprintHub](https://github.com/0x727/FingerprintHub) | default | 侦查守卫(ObserverWard)的指纹库 | 2024-01-26 01:41:30 |
-| [ObserverWard](https://github.com/0x727/ObserverWard) | v2024.1<br>.22 | 侦查守卫(ObserverWard)指纹识别工具<br>Community web fingerprint identific<br>ation tool  | 2024-01-22 10:40:27 |
+| [FingerprintHub](https://github.com/0x727/FingerprintHub) |  |  | 2024-01-26 01:41:30 |
+| [ObserverWard](https://github.com/0x727/ObserverWard) |  |  | 2024-01-22 10:40:27 |
 | [wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) | v0.0.10<br>9 | A high performance go implementati<br>on of Wappalyzer Technology Detecti<br>on Library | 2023-08-20 00:19:18 |
 | [EHole](https://github.com/EdgeSecurityTeam/EHole) | v3.1 | EHole(棱洞)3.0 重构版-红队重点攻击<br>系统指纹探测工具 | 2023-06-14 03:08:05 |
 | [Find-SomeThing](https://github.com/LittleBear4/Find-SomeThing) |  | 红队批量脆弱点搜集工具 | 2023-06-06 14:41:27 |
@@ -849,9 +826,9 @@
 #### 目录扫描
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [dirsearch](https://github.com/maurosoria/dirsearch) | v0.4.3 | Web path scanner | 2024-01-28 04:34:54 |
-| [feroxbuster](https://github.com/epi052/feroxbuster) | v2.10.1 | A fast, simple, recursive content <br>discovery tool written in Rust. | 2024-01-24 11:55:30 |
-| [ihoneyBakFileScan<br>_Modify](https://github.com/VMsec/ihoneyBakFileScan_Modify) |  | 批量网站备份文件扫描器，增加文件规<br>则，优化内存占用 | 2023-11-08 03:15:06 |
+| [dirsearch](https://github.com/maurosoria/dirsearch) |  |  | 2024-01-28 04:34:54 |
+| [feroxbuster](https://github.com/epi052/feroxbuster) |  |  | 2024-01-24 11:55:30 |
+| [ihoneyBakFileScan<br>_Modify](https://github.com/VMsec/ihoneyBakFileScan_Modify) |  |  | 2023-11-08 03:15:06 |
 | [ffuf](https://github.com/ffuf/ffuf) | v2.1.0 | Fast web fuzzer written in Go | 2023-10-22 14:34:24 |
 | [URLFinder](https://github.com/pingc0y/URLFinder) | 2023.9.<br>9 | 一款快速、全面、易用的页面信息提取<br>工具，可快速发现和提取页面中的JS、UR<br>L和敏感信息。 | 2023-09-09 14:01:45 |
 | [dirsearch_bypass4<br>03](https://github.com/lemonlove7/dirsearch_bypass403) | v0.2 | 目录扫描+JS文件中提取URL和子域+403<br>状态绕过+指纹识别 | 2023-09-07 09:08:29 |
@@ -869,7 +846,7 @@
 #### 端口扫描
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [naabu](https://github.com/projectdiscovery/naabu) | v2.2.1 | A fast port scanner written in go <br>with a focus on reliability and sim<br>plicity. Designed to be used in com<br>bination with other tools for attac<br>k surface discovery in bug bounties<br> and p | 2024-01-20 15:44:07 |
+| [naabu](https://github.com/projectdiscovery/naabu) |  |  | 2024-01-20 15:44:07 |
 | [portscan](https://github.com/20142995/portscan) |  |  | 2023-04-08 05:12:18 |
 | [webfinder-next](https://github.com/Liqunkit/webfinder-next) |  | 对小米范webfinder http://www.cnblo<br>gs.com/SEC-fsq/p/5610981.html 进行<br>了小修改 | 2022-04-24 03:33:57 |
 | [scaninfo](https://github.com/redtoolskobe/scaninfo) | v1.1.0 | fast scan for redtools | 2022-03-23 12:57:09 |
@@ -884,11 +861,11 @@
 #### 自动化信息收集
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [nemo_go](https://github.com/hanc00l/nemo_go) | v2.11.0 | Nemo是用来进行自动化信息收集的一个<br>简单平台，通过集成常用的信息收集工具<br>和技术，实现对内网及互联网资产信息的<br>自动收集，提高隐患排查和渗透测试的工<br>作效率。 | 2024-01-19 08:07:01 |
-| [rengine](https://github.com/yogeshojha/rengine) | v2.0.3 | reNgine is an automated reconnaiss<br>ance framework for web applications<br> with a focus on highly configurabl<br>e streamlined recon process via Eng<br>ines, recon data correlation and or<br>ganiza | 2024-01-15 04:56:01 |
-| [X-Marshal](https://github.com/XTeam-Wing/X-Marshal) |  | Marshal-EASM 攻击面管理系统 | 2024-01-04 10:43:46 |
-| [ARL](https://github.com/TophantTechnology/ARL) | v2.6.1 | ARL(Asset Reconnaissance Lighthous<br>e)资产侦察灯塔系统旨在快速侦察与目<br>标关联的互联网资产，构建基础资产信息<br>库。 协助甲方安全团队或者渗透测试人<br>员有效侦察和检索资产，发现存在的薄弱<br>点和攻击面。 | 2023-12-28 12:03:22 |
-| [Komo](https://github.com/komomon/Komo) |  | 🚀Komo, a comprehensive asset coll<br>ection and vulnerability scanning t<br>ool. Komo 一个综合资产收集和漏洞扫<br>描工具，集成了20余款工具，通过多种方<br>式对子域进行获取，收集域名邮箱，进行<br>存活探测，域名指纹识别，域名反查ip，<br>ip端口扫描，web服务链接爬取并发送给<br>xray，对web服务进行P | 2023-11-30 12:31:13 |
+| [nemo_go](https://github.com/hanc00l/nemo_go) |  |  | 2024-01-19 08:07:01 |
+| [rengine](https://github.com/yogeshojha/rengine) |  |  | 2024-01-15 04:56:01 |
+| [X-Marshal](https://github.com/XTeam-Wing/X-Marshal) |  |  | 2024-01-04 10:43:46 |
+| [ARL](https://github.com/TophantTechnology/ARL) |  |  | 2023-12-28 12:03:22 |
+| [Komo](https://github.com/komomon/Komo) |  |  | 2023-11-30 12:31:13 |
 | [Sec-Tools](https://github.com/jwt1399/Sec-Tools) |  | 🍉一款基于Python-Django的多功能Web<br>安全渗透测试工具，包含漏洞扫描，端口<br>扫描，指纹识别，目录扫描，旁站扫描，<br>域名扫描等功能。 | 2023-08-07 03:52:52 |
 | [linbing](https://github.com/taomujian/linbing) | v3.0 | 本系统是对Web中间件和Web框架进行自<br>动化渗透的一个系统,根据扫描选项去自<br>动化收集资产,然后进行POC扫描,POC扫描<br>时会根据指纹选择POC插件去扫描,POC插<br>件扫描用异步方式扫描.前端采用vue技术<br>,后端采用python fastapi. | 2023-06-18 09:05:42 |
 | [MagiCude](https://github.com/er10yi/MagiCude) | v2.1 | 分布式端口（漏洞）扫描、资产安全管<br>理、实时威胁监控与通知、高效漏洞闭环<br>、漏洞wiki、邮件报告通知、poc框架 | 2023-03-24 02:24:02 |
@@ -916,8 +893,8 @@
 #### 资产测绘采集
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [ThunderSearch](https://github.com/xzajyjs/ThunderSearch) | v2.5.1 | 【支持Fofa、Shodan、Hunter、Zoomey<br>e、Quake网络空间搜索引擎】闪电搜索<br>器；GUI图形化(Mac/Windows)渗透测试信<br>息搜集工具；资产搜集引擎；hw红队工具<br>hvv | 2023-12-04 15:39:00 |
-| [Search_Viewer](https://github.com/G3et/Search_Viewer) | v3.0 | 集Fofa、Hunter鹰图、Shodan、360 qu<br>ake、Zoomeye 钟馗之眼、censys 为一<br>体的空间测绘gui图形界面化工具，支持<br>一键采集爬取和导出fofa、shodan等数据<br>，方便快捷查看 | 2023-11-12 06:55:05 |
+| [ThunderSearch](https://github.com/xzajyjs/ThunderSearch) |  |  | 2023-12-04 15:39:00 |
+| [Search_Viewer](https://github.com/G3et/Search_Viewer) |  |  | 2023-11-12 06:55:05 |
 | [0_zone_tool](https://github.com/wkend/0_zone_tool) |  | 零零信安api信息系统查询脚本 | 2023-09-22 06:48:26 |
 | [ones](https://github.com/ffffffff0x/ones) | v1.0.4 | 可用于多个网络资产测绘引擎 API 的<br>命令行查询工具 | 2023-09-14 08:26:59 |
 | [AsamF](https://github.com/Kento-Sec/AsamF) | v0.2.5 | AsamF是集成Fofa、Quake、Hunter、Sh<br>odan、Zoomeye、Chinaz、0.zone及爱企<br>查的一站式企业信息资产收集、网络资产<br>测绘工具。 | 2023-08-24 15:08:14 |
@@ -933,9 +910,9 @@
 #### 代理转发
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [frp](https://github.com/fatedier/frp) | v0.53.2 | A fast reverse proxy to help you e<br>xpose a local server behind a NAT o<br>r firewall to the internet. | 2024-01-25 06:22:15 |
-| [suo5](https://github.com/zema1/suo5) | v1.1.0 | 一款高性能 HTTP 代理隧道工具 | A h<br>igh-performance http proxy tunnelin<br>g tool | 2024-01-17 13:29:44 |
-| [pingtunnel](https://github.com/esrrhs/pingtunnel) | 2.8 | Pingtunnel is a tool that send TCP<br>/UDP traffic over ICMP | 2023-11-29 03:52:29 |
+| [frp](https://github.com/fatedier/frp) |  |  | 2024-01-25 06:22:15 |
+| [suo5](https://github.com/zema1/suo5) |  |  | 2024-01-17 13:29:44 |
+| [pingtunnel](https://github.com/esrrhs/pingtunnel) |  |  | 2023-11-29 03:52:29 |
 | [Stowaway](https://github.com/ph4ntonn/Stowaway) | v2.1 | 👻Stowaway -- Multi-hop Proxy Tool<br> for pentesters | 2023-10-28 04:17:23 |
 | [goproxy](https://github.com/snail007/goproxy) | v14.1 | 🔥 Proxy is a high performance HTT<br>P(S) proxies, SOCKS5 proxies,WEBSOC<br>KET, TCP, UDP proxy server implemen<br>ted by golang. Now, it supports cha<br>in-style proxies,nat forwarding in <br>differe | 2023-10-24 04:45:51 |
 | [slcx](https://github.com/sechelper/slcx) | v1.0.2 | 端口转发工具，绕过流量安全检测。 | 2023-08-05 07:52:12 |
@@ -968,7 +945,7 @@
 #### 内网横向工具
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [impacket](https://github.com/fortra/impacket) | impacke<br>t_0_11_0 | Impacket is a collection of Python<br> classes for working with network p<br>rotocols. | 2024-01-16 03:06:39 |
+| [impacket](https://github.com/fortra/impacket) |  |  | 2024-01-16 03:06:39 |
 | [Intranet-tools](https://github.com/private-null/Intranet-tools) |  |  | 2023-09-15 04:31:07 |
 | [java-impacket-gui](https://github.com/Suq3rm4n/java-impacket-gui) |  | java-impacket-gui | 2023-09-07 12:55:07 |
 | [Impacket_For_Web](https://github.com/XiaoBai-12138/Impacket_For_Web) |  |  | 2023-09-06 05:26:46 |
@@ -983,7 +960,7 @@
 #### 内网漏洞发现
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [fscan](https://github.com/shadow1ng/fscan) | 1.8.3 | 一款内网综合扫描工具，方便一键自动<br>化、全方位漏扫扫描。 | 2024-01-15 08:31:14 |
+| [fscan](https://github.com/shadow1ng/fscan) |  |  | 2024-01-15 08:31:14 |
 | [Template](https://github.com/1n7erface/Template) | v1.2.5 | Next generation RedTeam heuristic <br>intranet scanning | 下一代RedTeam启<br>发式内网扫描 | 2023-09-16 16:50:54 |
 | [kscan](https://github.com/lcvvvv/kscan) | v1.85 | Kscan是一款纯go开发的全方位扫描器<br>，具备端口扫描、协议检测、指纹识别，<br>暴力破解等功能。支持协议1200+，协议<br>指纹10000+，应用指纹20000+，暴力破解<br>协议10余种。 | 2023-08-22 10:45:48 |
 | [ADCSKiller](https://github.com/grimlockx/ADCSKiller) |  | An ADCS Exploitation Automation To<br>ol Weaponizing Certipy and Coercer | 2023-05-19 14:43:36 |
@@ -994,7 +971,7 @@
 #### 后渗透框架
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [metasploit-framew<br>ork](https://github.com/rapid7/metasploit-framework) |  | Metasploit Framework | 2024-01-26 20:42:11 |
+| [metasploit-framew<br>ork](https://github.com/rapid7/metasploit-framework) |  |  | 2024-01-26 20:42:11 |
 #### 域渗透工具
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
@@ -1004,7 +981,7 @@
 ##### linux提权
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [PEASS-ng](https://github.com/carlospolop/PEASS-ng) | 2024012<br>8-3084e4<br>e1 | PEASS - Privilege Escalation Aweso<br>me Scripts SUITE (with colors) | 2024-01-24 17:13:22 |
+| [PEASS-ng](https://github.com/carlospolop/PEASS-ng) |  |  | 2024-01-24 17:13:22 |
 | [traitor](https://github.com/liamg/traitor) | v0.0.14 | :arrow_up: :skull_and_crossbones: <br>:fire: Automatic Linux privesc via <br>exploitation of low-hanging fruit e<br>.g. gtfobins, pwnkit, dirty pipe, +<br>w docker.sock | 2023-03-07 22:06:41 |
 | [dirtycow](https://github.com/firefart/dirtycow) |  | Dirty Cow exploit - CVE-2016-5195 | 2021-04-08 11:35:12 |
 | [LinEnum](https://github.com/rebootuser/LinEnum) |  | Scripted Local Linux Enumeration &<br> Privilege Escalation Checks | 2020-01-07 09:20:33 |
@@ -1012,7 +989,7 @@
 ##### windows提权
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [CoercedPotato](https://github.com/Prepouce/CoercedPotato) |  | Windows potato to privesc | 2023-11-03 20:58:16 |
+| [CoercedPotato](https://github.com/Prepouce/CoercedPotato) |  |  | 2023-11-03 20:58:16 |
 | [Windows-exploits](https://github.com/lyshark/Windows-exploits) | Windows<br>Exploits<br>Collecti<br>ons | Windows 平台提权漏洞大合集，长期收<br>集各种提权漏洞利用工具。 A large col<br>lection of rights raising vulnerabi<br>lities on the windows platform, whi<br>ch collects various rights raising <br>vulnerability utilization tool | 2023-01-04 11:10:42 |
 | [BadPotato](https://github.com/BeichenDream/BadPotato) |  | Windows 权限提升 BadPotato | 2020-05-10 15:42:20 |
 | [CoercedPotato](https://github.com/hackvens/CoercedPotato) |  |  |  |
@@ -1024,7 +1001,7 @@
 ##### Shell管理
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [java-memshell-gen<br>erator-release](https://github.com/pen4uin/java-memshell-generator-release) | v1.0.7.<br>beta3 | 一款支持高度自定义的 Java 内存马生<br>成工具 | 2023-11-01 04:18:55 |
+| [java-memshell-gen<br>erator-release](https://github.com/pen4uin/java-memshell-generator-release) |  |  | 2023-11-01 04:18:55 |
 | [Platypus](https://github.com/WangYihang/Platypus) | v1.5.0 | :hammer: A modern multiple reverse<br> shell sessions manager written in <br>go | 2023-08-16 02:43:03 |
 | [Webshell_Generate](https://github.com/cseroad/Webshell_Generate) | v1.2.3 | 用于生成各类免杀webshell | 2023-06-19 03:21:09 |
 | [Godzilla](https://github.com/BeichenDream/Godzilla) | v4.0.1-<br>godzilla | 哥斯拉 | 2023-03-07 07:33:10 |
@@ -1045,8 +1022,8 @@
 ##### 免杀
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [Qianji](https://github.com/Pizz33/Qianji) | Qianji_<br>BypassAV<br>-sandbox<br>-2023111<br>5 | 千机-红队免杀木马自动生成器 Bypass<br> defender、火绒、360等国内主流杀软 <br>随机加密混淆shellcode快速生成免杀马 | 2024-01-14 11:41:22 |
-| [0xUBypass](https://github.com/Yeuoly/0xUBypass) | 1.0.0 | AntiAV shellcode loader | 2023-11-21 01:27:44 |
+| [Qianji](https://github.com/Pizz33/Qianji) |  |  | 2024-01-14 11:41:22 |
+| [0xUBypass](https://github.com/Yeuoly/0xUBypass) |  |  | 2023-11-21 01:27:44 |
 | [SharpShellcodeLoa<br>der_Rc4Aes](https://github.com/xf555er/SharpShellcodeLoader_Rc4Aes) |  | 用于解密并加载shellcode，支持RC4和<br>AES两种解密方法，并使用DInvoke来动<br>态调用WinAPI函数，从而尝试绕过某些安<br>全解决方案 | 2023-10-07 07:22:24 |
 | [AV_Evasion_Tool](https://github.com/1y0n/AV_Evasion_Tool) | 2023082<br>3 | 掩日 - 免杀执行器生成工具 | 2023-08-23 06:25:21 |
 | [GobypassAV-shellc<br>ode](https://github.com/Pizz33/GobypassAV-shellcode) |  | shellcode免杀加载器，使用go实现，<br>免杀bypass火绒、360、核晶、def等主流<br>杀软 | 2023-08-03 04:37:38 |
@@ -1078,12 +1055,12 @@
 ###### 签名伪造
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [Sign-Sacker](https://github.com/langsasec/Sign-Sacker) | 代码微<br>调，项目<br>停更 | Sign-Sacker(签名掠夺者)：一款数字<br>签名复制器，可将其他官方exe中数字签<br>名，图标，详细信息复制到没有签名的ex<br>e中，作为免杀，权限维持，伪装的一种<br>小手段。 | 2024-01-04 07:39:09 |
+| [Sign-Sacker](https://github.com/langsasec/Sign-Sacker) |  |  | 2024-01-04 07:39:09 |
 | [SigThief](https://github.com/secretsquirrel/SigThief) |  | Stealing Signatures and Making One<br> Invalid Signature at a Time | 2021-08-11 19:34:42 |
 ##### 后门
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [HackerPermKeeper](https://github.com/RuoJi6/HackerPermKeeper) | 6.0 |  | 2024-01-26 06:29:52 |
+| [HackerPermKeeper](https://github.com/RuoJi6/HackerPermKeeper) |  |  | 2024-01-26 06:29:52 |
 | [CreateHiddenAccou<br>nt](https://github.com/wgpsec/CreateHiddenAccount) | 0.2 | A tool for creating hidden account<br>s using the registry || 一个使用注<br>册表创建隐藏帐户的工具 | 2022-04-29 10:06:03 |
 | [ShadowUser](https://github.com/An0nySec/ShadowUser) |  | 影子用户 克隆 | 2021-12-30 03:19:17 |
 | [CloneX_0x727](https://github.com/0x727/CloneX_0x727) | 1.0 | 进行克隆用户、添加用户等账户防护安<br>全检测的轻巧工具 | 2021-09-03 09:08:01 |
@@ -1091,15 +1068,15 @@
 ##### 远控
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [sliver](https://github.com/BishopFox/sliver) | v1.5.41 | Adversary Emulation Framework | 2024-01-24 21:51:42 |
+| [sliver](https://github.com/BishopFox/sliver) |  |  | 2024-01-24 21:51:42 |
 | [Supershell](https://github.com/tdragon6/Supershell) | v2.0.0 | Supershell C2 远控平台，基于反向SS<br>H隧道获取完全交互式Shell | 2023-09-26 13:49:47 |
 | [trojan_simple_dem<br>o](https://github.com/Ciyfly/trojan_simple_demo) |  | 简单的用python写的远控demo 执行命<br>令 只一个心跳完成所有操作 | 2022-10-07 12:51:43 |
 | [SimpleRemoter](https://github.com/yuanyuanxiang/SimpleRemoter) | v1.0.0.<br>5 | 基于gh0st的远程控制器：实现了终端<br>管理、进程管理、窗口管理、远程桌面、<br>文件管理、语音管理、视频管理、服务管<br>理、注册表管理等功能，优化全部代码及<br>整理排版，修复内存泄漏缺陷，程序运行<br>稳定。项目代码仅限于学习和交流用途。 | 2021-03-14 12:55:22 |
 #### 综合
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [Viper](https://github.com/FunnyWolf/Viper) | 2023-12<br>-03-13-4<br>4-27 | Redteam operation platform with we<br>bui 图形化红队行动辅助平台 | 2023-12-31 03:08:26 |
-| [Ladon](https://github.com/k8gege/Ladon) | v12.2 | Ladon大型内网渗透工具，可PowerShel<br>l模块化、可CS插件化、可内存加载，无<br>文件扫描。含端口扫描、服务识别、网络<br>资产探测、密码审计、高危漏洞检测、漏<br>洞利用、密码读取以及一键GetShell，支<br>持批量A段/B段/C段以及跨网段扫描，支<br>持URL、主机、域名列表扫描等。Ladon 1<br>2.2内置262个功能,网络资产探测模块32<br>个通过多种协议(ICMP\N | 2023-12-19 15:05:38 |
+| [Viper](https://github.com/FunnyWolf/Viper) |  |  | 2023-12-31 03:08:26 |
+| [Ladon](https://github.com/k8gege/Ladon) |  |  | 2023-12-19 15:05:38 |
 ### 客户端漏洞
 #### 向日葵
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
@@ -1121,15 +1098,15 @@
 #### 优秀项目集合
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [404StarLink](https://github.com/knownsec/404StarLink) |  | 404StarLink - 推荐优质、有意义、有<br>趣、坚持维护的安全开源项目 | 2024-01-22 02:52:06 |
-| [All-Defense-Tool](https://github.com/guchangan1/All-Defense-Tool) |  | 本项目集成了全网优秀的攻防武器工具<br>项目，包含自动化利用，子域名、目录扫<br>描、端口扫描等信息收集工具，各大中间<br>件、cms漏洞利用工具，爆破工具、内网<br>横向及免杀、社工钓鱼以及应急响应等资<br>料。 | 2023-12-14 07:29:24 |
-| [Scanners-Box](https://github.com/We5ter/Scanners-Box) |  | A powerful and open-source toolkit<br> for hackers and security automatio<br>n - 安全行业从业者自研开源扫描器合<br>辑 | 2023-12-07 02:33:06 |
+| [404StarLink](https://github.com/knownsec/404StarLink) |  |  | 2024-01-22 02:52:06 |
+| [All-Defense-Tool](https://github.com/guchangan1/All-Defense-Tool) |  |  | 2023-12-14 07:29:24 |
+| [Scanners-Box](https://github.com/We5ter/Scanners-Box) |  |  | 2023-12-07 02:33:06 |
 | [About-Attack](https://github.com/lintstar/About-Attack) |  | 一个旨在通过应用场景 / 标签对 Gith<br>ub 红队向工具 / 资源进行分类收集，<br>降低红队技术门槛的手册【持续更新】 | 2023-04-12 07:14:03 |
 | [RedTeamTools](https://github.com/FiveAourThe/RedTeamTools) |  | 分享红队常用的工具 | 2021-06-10 08:39:46 |
 #### 字典
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts) |  | Web Pentesting Fuzz 字典,一个就够<br>了。 | 2023-11-13 03:48:29 |
+| [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts) |  |  | 2023-11-13 03:48:29 |
 | [gendict](https://github.com/ffffffff0x/gendict) | v1.0.5 | 字典生成工具 | 2023-09-20 01:52:09 |
 | [AboutSecurity](https://github.com/ffffffff0x/AboutSecurity) | v2 | Everything for pentest. | 用于渗透<br>测试的 payload 和 bypass 字典. | 2023-01-09 12:14:59 |
 | [Dictionary-Of-Pen<br>testing](https://github.com/insightglacier/Dictionary-Of-Pentesting) |  | Dictionary collection project such<br> as Pentesing, Fuzzing, Bruteforce <br>and BugBounty. 渗透测试、SRC漏洞挖<br>掘、爆破、Fuzzing等字典收集项目。 | 2022-12-07 09:17:15 |
@@ -1147,7 +1124,7 @@
 ###### 信息收集
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [domain_hunter_pro](https://github.com/bit4woo/domain_hunter_pro) | v1.9 | domain_hunter的高级版本，SRC挖洞、<br>HW打点之必备！自动化资产收集；快速T<br>itle获取；外部工具联动；等等 | 2024-01-23 04:39:38 |
+| [domain_hunter_pro](https://github.com/bit4woo/domain_hunter_pro) |  |  | 2024-01-23 04:39:38 |
 | [BurpJSLinkFinder](https://github.com/InitRoot/BurpJSLinkFinder) |  | Burp Extension for a passive scann<br>ing JS files for endpoint links. | 2022-10-17 09:27:42 |
 | [Sylas](https://github.com/Acmesec/Sylas) | 1.1.1 | 新一代子域名主/被动收集工具 - Subd<br>omain automatic/passive collection <br>tool | 2022-10-09 11:06:28 |
 | [BurpExtractor](https://github.com/NetSPI/BurpExtractor) | v1.3.4 | A Burp extension for generic extra<br>ction and reuse of data within HTTP<br> requests and responses. | 2022-02-01 22:50:06 |
@@ -1159,9 +1136,9 @@
 ###### 功能拓展
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [autoDecoder](https://github.com/f0ng/autoDecoder) | 0.37-be<br>ta1 | Burp插件，根据自定义来达到对数据包<br>的处理（适用于加解密、爆破等），类似<br>mitmproxy，不同点在于经过了burp中转<br>，在自动加解密的基础上，不影响APP、<br>网站加解密正常逻辑等。 | 2024-01-11 05:24:54 |
-| [captcha-killer-mo<br>dified](https://github.com/f0ng/captcha-killer-modified) | 0.24.4 | captcha-killer的修改版，支持关键词<br>识别base64编码的图片，添加免费ocr库<br>，用于验证码爆破，适配新版Burpsuite | 2024-01-08 03:15:25 |
-| [reCAPTCHA](https://github.com/bit4woo/reCAPTCHA) | v1.0 | reCAPTCHA = REcognize CAPTCHA: A B<br>urp Suite Extender that recognize C<br>APTCHA and use for intruder payload<br> 自动识别图形验证码并用于burp intru<br>der爆破模块的插件 | 2023-11-23 07:25:00 |
+| [autoDecoder](https://github.com/f0ng/autoDecoder) |  |  | 2024-01-11 05:24:54 |
+| [captcha-killer-mo<br>dified](https://github.com/f0ng/captcha-killer-modified) |  |  | 2024-01-08 03:15:25 |
+| [reCAPTCHA](https://github.com/bit4woo/reCAPTCHA) |  |  | 2023-11-23 07:25:00 |
 | [knife](https://github.com/bit4woo/knife) | v2.2 | A burp extension that add some use<br>ful function to Context Menu 添加一<br>些右键菜单让burp用起来更顺畅 | 2023-09-10 08:12:57 |
 | [LoggerPlusPlus](https://github.com/nccgroup/LoggerPlusPlus) | v3.20.0 | Advanced Burp Suite Logging Extens<br>ion | 2023-06-05 15:36:27 |
 | [HaE](https://github.com/gh0stkey/HaE) | 2.4.6 | HaE - Highlighter and Extractor, <br>赋能白帽 高效作战 | 2023-02-22 09:36:50 |
@@ -1249,7 +1226,7 @@
 ###### 漏洞扫描
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [RouteVulScan](https://github.com/F6JO/RouteVulScan) | RouteVu<br>lScan1.5<br>.1 | Burpsuite - Route Vulnerable Scann<br>ing 递归式被动检测脆弱路径的burp插<br>件 | 2023-12-25 08:40:10 |
+| [RouteVulScan](https://github.com/F6JO/RouteVulScan) |  |  | 2023-12-25 08:40:10 |
 | [semgrepper](https://github.com/gand3lf/semgrepper) | v1.3 | An extension to use Semgrep inside<br> Burp Suite. | 2023-08-28 09:28:41 |
 | [log4j2burpscanner](https://github.com/f0ng/log4j2burpscanner) | 0.25.0 | CVE-2021-44228 Log4j2 BurpSuite Sc<br>anner,Customize ceye.io api or othe<br>r apis,including internal networks | 2023-06-13 09:17:54 |
 | [BurpCRLFScan](https://github.com/A0WaQ4/BurpCRLFScan) | 1.4 | 使用java编写的CRLF-Injection-burp<br>被动扫描插件 | 2022-12-20 08:16:10 |
@@ -1288,7 +1265,7 @@
 ##### cobaltstrike
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [malleable-c2](https://github.com/threatexpress/malleable-c2) |  | Cobalt Strike Malleable C2 Design <br>and Reference Guide | 2023-11-08 17:57:11 |
+| [malleable-c2](https://github.com/threatexpress/malleable-c2) |  |  | 2023-11-08 17:57:11 |
 | [Cobalt_Strike_wik<br>i](https://github.com/aleenzz/Cobalt_Strike_wiki) |  | Cobalt Strike系列 | 2023-02-16 16:24:12 |
 | [CVE-2022-39197](https://github.com/its-arun/CVE-2022-39197) |  | CobaltStrike <= 4.7.1 RCE | 2022-10-25 05:32:54 |
 | [RedWarden](https://github.com/mgeeky/RedWarden) |  | Cobalt Strike C2 Reverse proxy tha<br>t fends off Blue Teams, AVs, EDRs, <br>scanners through packet inspection <br>and malleable profile correlation | 2022-10-07 14:00:31 |
@@ -1303,7 +1280,7 @@
 ##### fofa
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [fofaEX](https://github.com/10cks/fofaEX) | 3.2 | FOFA EX 是一款基于fofa api（也可导<br>入鹰图、夸克文件）实现的红队综合利用<br>工具，可基于模板把工具作为插件进行集<br>成，自动化进行资产探测，目前提供的插<br>件功能如下：探活、 nuclei 模板扫描、<br>IP反查域名、域名反查 ICP 备案、dism<br>ap 指纹扫描 | 2024-01-26 05:55:21 |
+| [fofaEX](https://github.com/10cks/fofaEX) |  |  | 2024-01-26 05:55:21 |
 | [fofa_viewer](https://github.com/wgpsec/fofa_viewer) | 1.1.13 | A simple FOFA client written in Ja<br>vaFX. Made by WgpSec, Maintained by<br> f1ashine. | 2023-06-27 13:38:48 |
 | [fofax](https://github.com/xiecat/fofax) | v0.1.44 | fofax is a command line query tool<br> based on the API of https://fofa.i<br>nfo/, simple is the best! | 2023-06-20 01:26:33 |
 | [fofa_GUI](https://github.com/20142995/fofa_GUI) | v1.0.0 |  | 2022-01-28 08:39:54 |
@@ -1318,7 +1295,7 @@
 ##### goby
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [Library-POC](https://github.com/luck-ying/Library-POC) |  | 基于Pocsuite3、goby编写的漏洞poc&e<br>xp存档 | 2023-12-19 05:53:39 |
+| [Library-POC](https://github.com/luck-ying/Library-POC) |  |  | 2023-12-19 05:53:39 |
 ##### nessus
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
@@ -1362,7 +1339,7 @@
 ##### 浏览器扩展
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [mitaka](https://github.com/ninoseki/mitaka) | v1.4.1 | A browser extension for OSINT sear<br>ch | 2024-01-26 23:09:56 |
+| [mitaka](https://github.com/ninoseki/mitaka) |  |  | 2024-01-26 23:09:56 |
 | [superSearchPlus](https://github.com/dark-kingA/superSearchPlus) |  | 谷歌插件版本- superSearchPlus是聚<br>合型信息收集插件，支持综合查询，资产<br>测绘查询，信息收集 敏感信息提取 js资<br>源扫描 目录扫描 vue组件扫描 整合了目<br>前常见的资产测绘平台 同时支持数据导<br>出 | 2023-08-20 05:06:09 |
 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | v2.5.20 | Manage and switch between multiple<br> proxies quickly & easily. | 2023-03-30 08:39:34 |
 | [Hack-Tools](https://github.com/LasCC/Hack-Tools) | 0.5.0 | The all-in-one Red Team extension <br>for Web Pentester 🛠 | 2023-03-14 21:39:08 |
@@ -1375,13 +1352,13 @@
 #### 工具集
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [K8tools](https://github.com/k8gege/K8tools) |  | K8工具合集(内网渗透/提权工具/远程<br>溢出/漏洞利用/扫描工具/密码破解/免杀<br>工具/Exploit/APT/0day/Shellcode/Payl<br>oad/priviledge/BypassUAC/OverFlow/W<br>ebShell/PenTest) Web GetShell Explo<br>it(Struts2/Zimbra/Weblogic/Tomcat/A<br>pa | 2023-12-16 17:23:36 |
+| [K8tools](https://github.com/k8gege/K8tools) |  |  | 2023-12-16 17:23:36 |
 #### 工具集成环境
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [PST-Bucket](https://github.com/arch3rPro/PST-Bucket) |  | Scoop-Buket for Penetration Suite <br>Toolkit | 2024-01-28 16:27:46 |
+| [PST-Bucket](https://github.com/arch3rPro/PST-Bucket) |  |  | 2024-01-28 16:27:46 |
 | [Online_tools](https://github.com/Zhao-sai-sai/Online_tools) |  |  | 2023-12-09 15:00:53 |
-| [Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows) | v2.2 | Windows11 Penetration Suite Toolki<br>t 一个开箱即用的windows渗透测试环境 | 2023-10-31 01:56:54 |
+| [Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows) |  |  | 2023-10-31 01:56:54 |
 | [okfafu-pentestVM-<br>public](https://github.com/mrl64/okfafu-pentestVM-public) |  | okfafu渗透虚拟机公开版 | 2023-10-15 02:45:18 |
 | [commando-vm](https://github.com/mandiant/commando-vm) |  | Complete Mandiant Offensive VM (Co<br>mmando VM), a fully customizable Wi<br>ndows-based pentesting virtual mach<br>ine distribution. commandovm@mandia<br>nt.com | 2023-10-03 19:02:49 |
 | [ApoalypseSecTools](https://github.com/ApocalypseSec/ApoalypseSecTools) |  | ApoalypseSecTool更新地址 | 2023-04-26 02:03:35 |
@@ -1392,14 +1369,14 @@
 #### 渗透工具集合(虚拟机)
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [TranSec](https://github.com/TianWen-Lab/TranSec) | transec<br>os1.0 | Internet of Vehicles Penetration t<br>esting OS.车联网渗透测试系统，开箱<br>即用的测试环境，包含上百个常见用于车<br>联网渗透测试的工具集。覆盖逆向、CAN<br>、车载以太网、WiFi、蓝牙、云平台等安<br>全测试 | 2023-12-08 01:55:29 |
+| [TranSec](https://github.com/TianWen-Lab/TranSec) |  |  | 2023-12-08 01:55:29 |
 | [penetration-suite<br>-toolkit](https://github.com/makoto56/penetration-suite-toolkit) | v4.0 | 本项目制作的初衷是帮助渗透新手快速<br>搭建工作环境，工欲善其事，必先利其器<br>。 | 2022-12-11 11:22:06 |
 #### 知识库
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) | v1.0 | 一个攻防知识仓库 | 2024-01-18 07:49:44 |
-| [Vuln-List](https://github.com/wwl012345/Vuln-List) |  | (持续更新)对网上出现的各种OA、中间<br>件、CMS等漏洞进行整理，主要包括漏洞<br>介绍、漏洞影响版本以及漏洞POC/EXP等<br>，并且会持续更新。 | 2023-11-02 19:35:52 |
-| [SecurityInterview<br>Guide](https://github.com/FeeiCN/SecurityInterviewGuide) |  | 网络信息安全从业者面试指南 | 2023-11-01 04:16:51 |
+| [Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) |  |  | 2024-01-18 07:49:44 |
+| [Vuln-List](https://github.com/wwl012345/Vuln-List) |  |  | 2023-11-02 19:35:52 |
+| [SecurityInterview<br>Guide](https://github.com/FeeiCN/SecurityInterviewGuide) |  |  | 2023-11-01 04:16:51 |
 | [Pentools-wiki](https://github.com/ProbiusOfficial/Pentools-wiki) |  | 先是渗透工具合集，其次是wiki，做点<br>不一样的x | 2023-06-24 18:33:52 |
 | [Intranet_Penetrat<br>ion_Tips](https://github.com/Ridter/Intranet_Penetration_Tips) |  | 2018年初整理的一些内网渗透TIPS，后<br>面更新的慢，所以整理出来希望跟小伙伴<br>们一起更新维护~ | 2023-02-24 06:58:54 |
 | [1earn](https://github.com/ffffffff0x/1earn) |  | 暂停维护 | ffffffff0x 团队维护的安<br>全知识框架,内容包括不仅限于 web安全<br>、工控安全、取证、应急、蓝队设施部署<br>、后渗透、Linux安全、各类靶机writup | 2022-12-21 08:41:12 |
@@ -1417,7 +1394,7 @@
 ##### JDWP
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [jdwp-codeifier](https://github.com/l3yx/jdwp-codeifier) |  | 基于 jdwp-shellifier 的进阶JDWP漏<br>洞利用脚本（动态执行Java/Js代码并获<br>得回显） | 2023-12-06 07:45:48 |
+| [jdwp-codeifier](https://github.com/l3yx/jdwp-codeifier) |  |  | 2023-12-06 07:45:48 |
 | [jdwp-shellifier](https://github.com/Lz1y/jdwp-shellifier) |  | 修改利用方式为通过对Sleeping的线程<br>发送单步执行事件，达成断点，从而可以<br>直接获取上下文、执行命令，而不用等待<br>断点被击中。 | 2020-02-27 12:27:27 |
 | [jdwp-shellifier](https://github.com/IOActive/jdwp-shellifier) |  |  | 2017-01-14 00:36:18 |
 ##### RMI
@@ -1472,7 +1449,7 @@
 #### 敏感词
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [anti-AD](https://github.com/privacy-protection-tools/anti-AD) | v4.3 | 致力于成为中文区命中率最高的广告过<br>滤列表，实现精确的广告屏蔽和隐私保护<br>。anti-AD现已支持AdGuardHome，dnsmas<br>q， Surge，Pi-Hole，smartdns等网络<br>组件。完全兼容常见的广告过滤工具所支<br>持的各种广告过滤列表格式 | 2024-01-28 18:32:45 |
+| [anti-AD](https://github.com/privacy-protection-tools/anti-AD) |  |  | 2024-01-28 18:32:45 |
 | [DangerousSpamWord<br>s](https://github.com/adlered/DangerousSpamWords) |  | :notes:超轻量的中文敏感字、敏感词<br>库，字典词典，超低误识别率，另提供AP<br>I调用 | 2019-04-26 12:16:20 |
 | [sensitive_words](https://github.com/qloog/sensitive_words) |  | 敏感词库整理 | 2016-02-29 12:23:21 |
 ### 取证
@@ -1489,9 +1466,9 @@
 #### 内存取证
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [volatility3](https://github.com/volatilityfoundation/volatility3) | v2.5.0 | Volatility 3.0 development | 2024-01-29 00:07:40 |
-| [MemProcFS](https://github.com/ufrisk/MemProcFS) | v5.8 | MemProcFS | 2024-01-25 21:09:25 |
-| [VolatilityPro](https://github.com/Tokeii0/VolatilityPro) |  | 一款用于自动化处理内存取证的Python<br>脚本，并提供GUI界面 | 2023-12-26 08:30:53 |
+| [volatility3](https://github.com/volatilityfoundation/volatility3) |  |  | 2024-01-29 00:07:40 |
+| [MemProcFS](https://github.com/ufrisk/MemProcFS) |  |  | 2024-01-25 21:09:25 |
+| [VolatilityPro](https://github.com/Tokeii0/VolatilityPro) |  |  | 2023-12-26 08:30:53 |
 | [community3](https://github.com/volatilityfoundation/community3) |  | Volatility3 plugins developed and <br>maintained by the community | 2022-02-18 16:03:32 |
 | [community](https://github.com/volatilityfoundation/community) |  | Volatility plugins developed and m<br>aintained by the community  | 2019-11-15 16:52:01 |
 | [profiles](https://github.com/volatilityfoundation/profiles) |  | Volatility profiles for Linux and <br>Mac OS X | 2019-10-08 16:11:39 |
@@ -1516,7 +1493,7 @@
 ##### 主机账号
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [LaZagne](https://github.com/AlessandroZ/LaZagne) | v2.4.5 | Credentials recovery project | 2023-11-13 16:46:59 |
+| [LaZagne](https://github.com/AlessandroZ/LaZagne) |  |  | 2023-11-13 16:46:59 |
 | [win-brute-logon](https://github.com/DarkCoderSc/win-brute-logon) |  | Crack any Microsoft Windows users <br>password without any privilege (Gue<br>st account included) | 2022-12-27 12:06:40 |
 | [mimikatz](https://github.com/gentilkiwi/mimikatz) | 2.2.0-2<br>0220919 | A little tool to play with Windows<br> security | 2022-09-19 21:24:53 |
 | [goLazagne](https://github.com/kerbyj/goLazagne) |  | Go library for credentials recover<br>y  | 2021-09-27 15:21:32 |
@@ -1529,8 +1506,8 @@
 ##### 微信取证
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [WeChatMsg](https://github.com/LC044/WeChatMsg) | v1.0.6 | 提取微信聊天记录，将其导出成HTML、<br>Word、CSV文档永久保存，对聊天记录进<br>行分析生成年度聊天报告 | 2024-01-28 13:26:27 |
-| [PyWxDump](https://github.com/xaoyaoo/PyWxDump) | v2.4.28 | 获取微信账号信息(昵称/账号/手机/邮<br>箱/数据库密钥/wxid)；PC微信数据库读<br>取、解密脚本；聊天记录查看工具；聊天<br>记录导出为html(包含语音图片)。支持多<br>账户信息获取，支持所有微信版本。 | 2024-01-26 09:41:27 |
+| [WeChatMsg](https://github.com/LC044/WeChatMsg) |  |  | 2024-01-28 13:26:27 |
+| [PyWxDump](https://github.com/xaoyaoo/PyWxDump) |  |  | 2024-01-26 09:41:27 |
 | [SharpWxDump](https://github.com/AdminTest0/SharpWxDump) |  | 微信客户端取证，可获取用户个人信息<br>(昵称/账号/手机/邮箱/数据库密钥(用<br>来解密聊天记录))；支持获取多用户信息<br>，不定期更新新版本偏移，目前支持所有<br>新版本、正式版本 | 2023-07-23 05:05:26 |
 | [wechat-backup](https://github.com/greycodee/wechat-backup) | v1.0.0 | 微信聊天记录持久化备份本地硬盘，释<br>放手机存储空间。 | 2023-06-22 13:34:20 |
 | [GoWxDump](https://github.com/SpenserCai/GoWxDump) | v1.0.12 | SharpWxDump的Go语言版。微信客户端<br>取证，获取信息(微信号、手机号、昵称)<br>，微信聊天记录分析(Top N聊天的人、统<br>计聊天最频繁的好友排行、关键词列表搜<br>索等) | 2023-06-15 03:49:16 |
@@ -1540,7 +1517,7 @@
 ##### 浏览器取证
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [Pillager](https://github.com/qwqdanchun/Pillager) | AutoBui<br>ld | Pillager是一个适用于后渗透期间的信<br>息收集工具 | 2024-01-24 11:43:57 |
+| [Pillager](https://github.com/qwqdanchun/Pillager) |  |  | 2024-01-24 11:43:57 |
 | [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) | v0.4.4 | Decrypt passwords/cookies/history/<br>bookmarks from the browser. 一款可<br>全平台运行的浏览器数据导出解密工具。 | 2023-10-02 14:37:42 |
 | [hindsight](https://github.com/obsidianforensics/hindsight) | v2023.0<br>3 | Web browser forensics for Google C<br>hrome/Chromium | 2023-08-29 02:20:32 |
 | [SharpCookieMonste<br>r](https://github.com/riskydissonance/SharpCookieMonster) |  | Extracts cookies from Chrome. | 2023-03-15 09:51:02 |
@@ -1608,11 +1585,11 @@
 ###### 其他
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [ImageMagick](https://github.com/ImageMagick/ImageMagick) | 7.1.1-2<br>7 | 🧙‍♂️ ImageMagick 7 | 2024-01-28 12:07:13 |
+| [ImageMagick](https://github.com/ImageMagick/ImageMagick) |  |  | 2024-01-28 12:07:13 |
 ###### 盲水印
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [blind_watermark](https://github.com/guofei9987/blind_watermark) | 0.2.1 | Blind&Invisible Watermark ，图片盲<br>水印，提取水印无须原图！ | 2023-11-18 06:38:25 |
+| [blind_watermark](https://github.com/guofei9987/blind_watermark) |  |  | 2023-11-18 06:38:25 |
 | [BlindWaterMark](https://github.com/chishaxie/BlindWaterMark) |  | 盲水印 by python | 2022-11-04 09:26:31 |
 | [BlindWatermark](https://github.com/ww23/BlindWatermark) | v0.0.3 | Java 盲水印 | 2020-04-05 14:08:06 |
 | [blind-watermark](https://github.com/linyacool/blind-watermark) |  | Watermark added to the frequency d<br>omain by Fourier transform | 2018-04-24 14:43:57 |
@@ -1624,7 +1601,7 @@
 ##### 音频
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [audacity](https://github.com/audacity/audacity) | Audacit<br>y-3.4.2 | Audio Editor  | 2024-01-24 16:35:35 |
+| [audacity](https://github.com/audacity/audacity) |  |  | 2024-01-24 16:35:35 |
 | [QSSTV](https://github.com/ON4QZ/QSSTV) |  | Receive and transmit images over r<br>adio using analog SSTV or digital D<br>RM | 2023-07-15 10:35:38 |
 | [dtmf-decoder](https://github.com/ribt/dtmf-decoder) |  | Extract phone numbers from an audi<br>o recording of the dial tones. | 2021-01-26 08:05:15 |
 #### 网络取证
@@ -1645,22 +1622,22 @@
 #### Web应用防火墙
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [safeline](https://github.com/chaitin/safeline) | v4.1.1 | 一款足够简单、足够好用、足够强的免<br>费 WAF。基于业界领先的语义引擎检测技<br>术，作为反向代理接入，保护你的网站不<br>受黑客攻击。 | 2024-01-24 05:48:53 |
+| [safeline](https://github.com/chaitin/safeline) |  |  | 2024-01-24 05:48:53 |
 | [openstar](https://github.com/starjun/openstar) |  | lua waf,nginx+lua,openresty,luajit<br>,waf+,cdn,nginx | 2021-10-10 12:38:04 |
 #### 主机入侵检测
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [Elkeid](https://github.com/bytedance/Elkeid) | rasp-v2<br>.2.1.6-s<br>canclass | Elkeid is an open source solution <br>that can meet the security requirem<br>ents of various workloads such as h<br>osts, containers and K8s, and serve<br>rless. It is derived from ByteDance<br>'s int | 2024-01-23 06:03:38 |
+| [Elkeid](https://github.com/bytedance/Elkeid) |  |  | 2024-01-23 06:03:38 |
 | [Hades](https://github.com/theSecHunter/Hades) |  | Hades is an cross-platform HIDS wi<br>th kernel-space data collection. | 2023-05-29 00:29:07 |
 | [cobaltstrike-suri<br>cata-rules](https://github.com/ainrm/cobaltstrike-suricata-rules) |  | 17条检测cobaltstrike的suricata-ids<br>规则 | 2022-06-20 09:36:14 |
 #### 主机入侵防御
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [iDefender](https://github.com/wecooperate/iDefender) | 2.9.0 | iDefender（冰盾 - 终端主动防御系统<br>） | 2023-12-29 14:52:04 |
+| [iDefender](https://github.com/wecooperate/iDefender) |  |  | 2023-12-29 14:52:04 |
 #### 堡垒机
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [jumpserver](https://github.com/jumpserver/jumpserver) | v3.10.3 | JumpServer 是广受欢迎的开源堡垒机<br>，是符合 4A 规范的专业运维安全审计系<br>统。 | 2024-01-25 09:07:37 |
+| [jumpserver](https://github.com/jumpserver/jumpserver) |  |  | 2024-01-25 09:07:37 |
 #### 威胁检测
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
@@ -1668,8 +1645,8 @@
 #### 欺骗防御
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [DecoyMini](https://github.com/decoymini/DecoyMini) | v2.0.66<br>91 | 🐝 A highly scalable, safe, free e<br>nterprise honeypots 一款高可扩展、<br>安全、免费的企业级蜜罐系统 | 2024-01-08 08:52:58 |
-| [HFish](https://github.com/hacklcx/HFish) |  | 安全、可靠、简单、免费的企业级蜜罐 | 2023-12-28 03:45:12 |
+| [DecoyMini](https://github.com/decoymini/DecoyMini) |  |  | 2024-01-08 08:52:58 |
+| [HFish](https://github.com/hacklcx/HFish) |  |  | 2023-12-28 03:45:12 |
 | [mysql-fake-server](https://github.com/4ra1n/mysql-fake-server) | 0.0.4 | MySQL Fake Server (纯Java实现，支<br>持GUI版和命令行版，提供Dockerfile，<br>支持多种常见JDBC利用) | 2023-09-18 15:12:06 |
 | [conpot](https://github.com/mushorg/conpot) | Release<br>_0.6.0 | ICS/SCADA honeypot | 2023-07-24 13:59:19 |
 | [Ehoney](https://github.com/seccome/Ehoney) | v3.0.0 | 安全、快捷、高交互、企业级的蜜罐管<br>理系统，护网；支持多种协议蜜罐、蜜签<br>、诱饵等功能。A safe, fast, highly i<br>nteractive and enterprise level hon<br>eypot management system, supports m<br>ultiple protocol honeypots, honeyto<br>kens, baits | 2022-11-17 14:10:40 |
@@ -1702,7 +1679,7 @@
 ##### 内存马查杀
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [arthas](https://github.com/alibaba/arthas) | arthas-<br>all-3.7.<br>2 | Alibaba Java Diagnostic Tool Artha<br>s/Alibaba Java诊断利器Arthas | 2024-01-25 09:15:41 |
+| [arthas](https://github.com/alibaba/arthas) |  |  | 2024-01-25 09:15:41 |
 | [ASP.NET-Memshell-<br>Scanner](https://github.com/yzddmr6/ASP.NET-Memshell-Scanner) |  | asp.net内存马检测工具 | 2023-08-22 08:10:22 |
 | [shell-analyzer](https://github.com/4ra1n/shell-analyzer) | 0.1 | Java内存马查杀GUI工具，实时动态分<br>析，支持本地和远程查杀 | 2023-06-03 16:53:13 |
 | [DuckMemoryScan](https://github.com/huoji120/DuckMemoryScan) |  | 检测绝大部分所谓的内存免杀马 | 2022-09-15 06:43:55 |
@@ -1769,11 +1746,11 @@
 ###### 异常检测
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [RmTools](https://github.com/RoomaSec/RmTools) |  | 蓝队应急工具 | 2024-01-17 08:11:42 |
+| [RmTools](https://github.com/RoomaSec/RmTools) |  |  | 2024-01-17 08:11:42 |
 ###### 综合
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [d-eyes](https://github.com/m-sec-org/d-eyes) | v1.1.0 | D-Eyes为M-SEC社区一款检测与响应工<br>具 | 2023-11-08 08:09:48 |
+| [d-eyes](https://github.com/m-sec-org/d-eyes) |  |  | 2023-11-08 08:09:48 |
 ###### 进程监控
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
@@ -1787,7 +1764,7 @@
 ##### 分析辅助
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [BlueTeamTools](https://github.com/abc123info/BlueTeamTools) | v0.92 | 蓝队分析研判工具箱，功能包括内存马<br>反编译分析、各种代码格式化、网空资产<br>测绘功能、溯源辅助、解密冰蝎流量、解<br>密哥斯拉流量、解密Shiro/CAS/Log4j2的<br>攻击payload、IP/端口连接分析、各种编<br>码/解码功能、蓝队分析常用网址、java<br>反序列化数据包分析、Java类名搜索、Fo<br>fa搜索、Hunter搜索等。 | 2024-01-05 02:10:41 |
+| [BlueTeamTools](https://github.com/abc123info/BlueTeamTools) |  |  | 2024-01-05 02:10:41 |
 #### 网络层面
 ##### IP信息
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
@@ -1822,8 +1799,8 @@
 ## chatgpt
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) | v3.1.8 | 🚀💪Maximize your efficiency and p<br>roductivity, support for English,中<br>文,Español,العربية. 让生产力加倍的AI<br>快捷指令。更有效地定制、保存和分享自<br>己的提示词。在提示词分享社区中，轻松<br>找到适用于不同场景的指令。 | 2024-01-21 22:08:20 |
-| [awesome-chatgpt-z<br>h](https://github.com/yzfly/awesome-chatgpt-zh) |  | ChatGPT 中文指南🔥，ChatGPT 中文调<br>教指南，指令指南，应用开发指南，精选<br>资源清单，更好的使用 chatGPT 让你的<br>生产力 up up up! 🚀 | 2023-12-18 13:02:48 |
+| [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) |  |  | 2024-01-21 22:08:20 |
+| [awesome-chatgpt-z<br>h](https://github.com/yzfly/awesome-chatgpt-zh) |  |  | 2023-12-18 13:02:48 |
 | [Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) |  | ChatGPT资料汇总学习，持续更新.....<br>. | 2023-07-07 02:24:11 |
 | [chatgpt](https://github.com/LangLangShanDeNanKe/chatgpt) |  | ChatGPT网址导航，分享免费好用AI网<br>站！ | 2023-07-01 15:12:07 |
 | [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) | v0.0.5 | ChatGPT for Mac, living in your me<br>nubar. | 2022-12-12 12:03:30 |
@@ -1842,8 +1819,8 @@
 ## web靶场
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [vulhub](https://github.com/vulhub/vulhub) |  | Pre-Built Vulnerable Environments <br>Based on Docker-Compose | 2024-01-28 14:17:11 |
-| [WebGoat](https://github.com/WebGoat/WebGoat) | v2023.8 | WebGoat is a deliberately insecure<br> application | 2024-01-09 14:10:16 |
+| [vulhub](https://github.com/vulhub/vulhub) |  |  | 2024-01-28 14:17:11 |
+| [WebGoat](https://github.com/WebGoat/WebGoat) |  |  | 2024-01-09 14:10:16 |
 | [SSRF_Vulnerable_L<br>ab](https://github.com/incredibleindishell/SSRF_Vulnerable_Lab) |  | This Lab contain the sample codes <br>which are vulnerable to Server-Side<br> Request Forgery attack | 2023-08-21 17:02:38 |
 | [pikachu](https://github.com/zhuifengshaonianhanlu/pikachu) |  | 一个好玩的Web安全-漏洞测试平台 | 2023-07-01 15:14:35 |
 | [vulfocus](https://github.com/fofapro/vulfocus) | v0.3.2.<br>11 | 🚀Vulfocus 是一个漏洞集成平台，将<br>漏洞环境 docker 镜像，放入即可使用，<br>开箱即用。 | 2023-05-31 03:45:48 |
@@ -1887,11 +1864,11 @@
 ## 压测工具
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [locust](https://github.com/locustio/locust) | 2.21.0 | Write scalable load tests in plain<br> Python 🚗💨 | 2024-01-28 20:19:48 |
+| [locust](https://github.com/locustio/locust) |  |  | 2024-01-28 20:19:48 |
 ## 安全思维脑图
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [HackerMind](https://github.com/Ascotbe/HackerMind) |  | 各种安全相关思维导图整理收集。渗透<br>步骤，web安全，CTF，业务安全，人工智<br>能，区块链安全，数据安全，安全开发，<br>无线安全，社会工程学，二进制安全，移<br>动安全，红蓝对抗，运维安全，风控安全<br>，linux安全 | 2023-12-04 07:10:47 |
+| [HackerMind](https://github.com/Ascotbe/HackerMind) |  |  | 2023-12-04 07:10:47 |
 ## 恶意网络流量模拟
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
@@ -1907,11 +1884,11 @@
 ## 数据库管理软件
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [dbeaver](https://github.com/dbeaver/dbeaver) | 23.3.3 | Free universal database tool and S<br>QL client | 2024-01-26 14:28:16 |
+| [dbeaver](https://github.com/dbeaver/dbeaver) |  |  | 2024-01-26 14:28:16 |
 ## 文字识别
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | release<br>/2.0.2 | OCR software, free and offline. 开<br>源、免费的离线OCR软件。支持截屏/批量<br>导入图片，PDF文档识别，排除水印/页眉<br>页脚，扫描/生成二维码。内置多国语言<br>库。 | 2024-01-26 17:10:19 |
+| [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) |  |  | 2024-01-26 17:10:19 |
 ## 机器学习
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
@@ -1930,11 +1907,11 @@
 ## 生成虚假数据
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [faker](https://github.com/joke2k/faker) | v22.5.1 | Faker is a Python package that gen<br>erates fake data for you. | 2024-01-24 16:28:34 |
+| [faker](https://github.com/joke2k/faker) |  |  | 2024-01-24 16:28:34 |
 ## 短信转发器
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [SmsForwarder](https://github.com/pppscn/SmsForwarder) | v3.2.0 | 短信转发器——监控Android手机短信<br>、来电、APP通知，并根据指定规则转发<br>到其他手机：钉钉群自定义机器人、钉钉<br>企业内机器人、企业微信群机器人、飞书<br>机器人、企业微信应用消息、邮箱、bark<br>、webhook、Telegram机器人、Server酱<br>、PushPlus、手机短信等。包括主动控制<br>服务端与客户端，让你轻松远程发短信、<br>查短信、查通话、查话簿、查电量等。 | 2024-01-22 01:37:37 |
+| [SmsForwarder](https://github.com/pppscn/SmsForwarder) |  |  | 2024-01-22 01:37:37 |
 ## 短信轰炸
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
@@ -1942,14 +1919,14 @@
 ## 科学上网
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [free](https://github.com/freefq/free) |  | 翻墙、免费翻墙、免费科学上网、免费<br>节点、免费梯子、免费ss/v2ray/trojan<br>节点、蓝灯、谷歌商店、翻墙梯子 | 2024-01-29 00:00:04 |
-| [v2rayfree](https://github.com/aiboboxx/v2rayfree) |  | v2ray节点、免费节点、免费v2ray节点<br>、最新公益免费v2ray节点订阅地址、免<br>费v2ray节点每日更新、免费ss/v2ray/tr<br>ojan节点、freefq  | 2024-01-28 12:30:55 |
-| [v2rayA](https://github.com/v2rayA/v2rayA) | v2.2.4.<br>6 | A web GUI client of Project V whic<br>h supports VMess, VLESS, SS, SSR, T<br>rojan, Tuic and Juicity protocols. <br>🚀 | 2023-12-16 17:09:56 |
+| [free](https://github.com/freefq/free) |  |  | 2024-01-29 00:00:04 |
+| [v2rayfree](https://github.com/aiboboxx/v2rayfree) |  |  | 2024-01-28 12:30:55 |
+| [v2rayA](https://github.com/v2rayA/v2rayA) |  |  | 2023-12-16 17:09:56 |
 | [trojan](https://github.com/Jrohy/trojan) | v2.15.3 | trojan多用户管理部署程序, 支持web<br>页面管理 | 2023-09-24 15:03:27 |
 ## 网站压测工具
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [dperf](https://github.com/baidu/dperf) | v1.6.0 | dperf is a 100Gbps network load te<br>ster. | 2024-01-20 10:39:58 |
+| [dperf](https://github.com/baidu/dperf) |  |  | 2024-01-20 10:39:58 |
 | [tcpburn](https://github.com/session-replay-tools/tcpburn) | 1.0.0 | The most powerful tool for stress <br>testing of Internet server applicat<br>ions | 2019-07-14 09:20:34 |
 | [WebBench](https://github.com/EZLippi/WebBench) |  | Webbench是Radim Kolar在1997年写的<br>一个在linux下使用的非常简单的网站压<br>测工具。它使用fork()模拟多个客户端同<br>时访问我们设定的URL，测试网站在压力<br>下工作的性能，最多可以模拟3万个并发<br>连接去测试网站的负载能力。官网地址:h<br>ttp://home.tiscali.cz/~cz210552/web<br>bench.html | 2018-01-20 17:33:28 |
 ## 软件及系统国内镜像
@@ -1959,8 +1936,8 @@
 ## 远程软件
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |
 | :---- | :---- | :---- | :---- |
-| [rustdesk](https://github.com/rustdesk/rustdesk) | 1.2.3 | An open-source remote desktop, and<br> alternative to TeamViewer. | 2024-01-26 11:22:26 |
-| [FreeRDP](https://github.com/FreeRDP/FreeRDP) | 3.2.0 | FreeRDP is a free remote desktop p<br>rotocol library and clients | 2024-01-25 09:36:52 |
+| [rustdesk](https://github.com/rustdesk/rustdesk) |  |  | 2024-01-26 11:22:26 |
+| [FreeRDP](https://github.com/FreeRDP/FreeRDP) |  |  | 2024-01-25 09:36:52 |
 | [Quasar](https://github.com/quasar/Quasar) | v1.4.1 | Remote Administration Tool for Win<br>dows | 2023-08-14 19:33:43 |
 ## 验证码生成
 | 项目名称 | 版本 | 项目描述 | 最近提交时间 |

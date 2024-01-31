@@ -1,4 +1,4 @@
-# 更新于 2024-01-30 08:30:36
+# 更新于 2024-01-31 08:31:02
 
 ## 近15天release更新记录
 | 更新时间 | 项目名称 | 版本 | 更新内容 |
@@ -82,9 +82,7 @@
 |2024-01-17 11:06:05|[sqlmap](https://github.com/sqlmapproject/sqlmap)|Update README-pl-PL.md (#5609) The spelling and gra<br>mmar errors have been corrected.|
 |2024-01-17 08:11:42|[RmTools](https://github.com/RoomaSec/RmTools)|remove sliver|
 |2024-01-16 03:22:30|[ThinkAdmin](https://github.com/zoujingli/ThinkAdmin)|同步更新组件|
-|2024-01-16 03:06:39|[impacket](https://github.com/fortra/impacket)|mssqlclient: Add -target-ip (#1648) * mssqlclient: <br>Enable Kerberos authentication without DNS lookup * <br>Group connection parameters under 'connection'|
-|2024-01-15 08:31:14|[fscan](https://github.com/shadow1ng/fscan)|Merge pull request #329 from scyxdd/fix-webtitle 修<br>复获取WebTitle的Bug|
-|2024-01-15 04:56:01|[rengine](https://github.com/yogeshojha/rengine)|Merge pull request #1123 from psyray/fix-1030 fix-1<br>030: Add missing slug on target summary link|## 所有项目
+|2024-01-16 03:06:39|[impacket](https://github.com/fortra/impacket)|mssqlclient: Add -target-ip (#1648) * mssqlclient: <br>Enable Kerberos authentication without DNS lookup * <br>Group connection parameters under 'connection'|## 所有项目
 # 安全
 ## CTF
 ### AWD

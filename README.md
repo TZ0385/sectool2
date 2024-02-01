@@ -1,4 +1,4 @@
-# 更新于 2024-01-31 08:31:02
+# 更新于 2024-02-01 08:32:07
 
 ## 近15天release更新记录
 | 更新时间 | 项目名称 | 版本 | 更新内容 |
@@ -80,9 +80,7 @@
 |2024-01-17 23:08:42|[john](https://github.com/openwall/john)|simd-intrinsics.c: fix a misplaced #endif Fixes #54<br>28. Signed-off-by: Claudio André |
 |2024-01-17 13:29:44|[suo5](https://github.com/zema1/suo5)|feat: release v1.1.0 (#48)|
 |2024-01-17 11:06:05|[sqlmap](https://github.com/sqlmapproject/sqlmap)|Update README-pl-PL.md (#5609) The spelling and gra<br>mmar errors have been corrected.|
-|2024-01-17 08:11:42|[RmTools](https://github.com/RoomaSec/RmTools)|remove sliver|
-|2024-01-16 03:22:30|[ThinkAdmin](https://github.com/zoujingli/ThinkAdmin)|同步更新组件|
-|2024-01-16 03:06:39|[impacket](https://github.com/fortra/impacket)|mssqlclient: Add -target-ip (#1648) * mssqlclient: <br>Enable Kerberos authentication without DNS lookup * <br>Group connection parameters under 'connection'|## 所有项目
+|2024-01-17 08:11:42|[RmTools](https://github.com/RoomaSec/RmTools)|remove sliver|## 所有项目
 # 安全
 ## CTF
 ### AWD

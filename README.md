@@ -1,4 +1,4 @@
-# 更新于 2024-02-02 08:31:40
+# 更新于 2024-02-03 08:30:41
 
 ## 近15天release更新记录
 | 更新时间 | 项目名称 | 版本 | 更新内容 |
@@ -75,8 +75,7 @@
 |2024-01-19 23:16:30|[python-uncompyle6](https://github.com/rocky/python-uncompyle6)|Merge pull request #480 from jwilk-forks/spelling F<br>ix typos|
 |2024-01-19 09:09:34|[RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool)|Create LICENSE|
 |2024-01-19 08:07:01|[nemo_go](https://github.com/hanc00l/nemo_go)|Update: 集成飞书知识库|
-|2024-01-19 01:08:28|[CTF-QuickStart](https://github.com/ProbiusOfficial/CTF-QuickStart)|Create LICENSE|
-|2024-01-18 07:49:44|[Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam)|update tips|## 所有项目
+|2024-01-19 01:08:28|[CTF-QuickStart](https://github.com/ProbiusOfficial/CTF-QuickStart)|Create LICENSE|## 所有项目
 # 安全
 ## CTF
 ### AWD

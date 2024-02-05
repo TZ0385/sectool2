@@ -1,4 +1,4 @@
-# 更新于 2024-02-04 08:33:20
+# 更新于 2024-02-05 08:32:10
 
 ## 近15天release更新记录
 | 更新时间 | 项目名称 | 版本 | 更新内容 |
@@ -68,10 +68,7 @@
 |2024-01-22 10:40:27|[ObserverWard](https://github.com/0x727/ObserverWard)|合并冲突|
 |2024-01-22 02:52:06|[404StarLink](https://github.com/knownsec/404StarLink)|weekly update at 2024-01-22|
 |2024-01-22 01:37:37|[SmsForwarder](https://github.com/pppscn/SmsForwarder)|优化：校验自定义消息卡片Json是否合法|
-|2024-01-21 22:08:20|[ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)|fix(comments): upgrade dependencies and fix warning<br> in comment component|
-|2024-01-20 15:44:07|[naabu](https://github.com/projectdiscovery/naabu)|Merge branch 'dev'|
-|2024-01-20 12:36:02|[pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor)|Mention support for pyinstaller 6.3.0|
-|2024-01-20 10:39:58|[dperf](https://github.com/baidu/dperf)|Merge pull request #407 from pengjianzhang/main fix<br> misspell|## 所有项目
+|2024-01-21 22:08:20|[ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)|fix(comments): upgrade dependencies and fix warning<br> in comment component|## 所有项目
 # 安全
 ## CTF
 ### AWD

@@ -1,4 +1,4 @@
-# 更新于 2024-02-06 08:30:15
+# 更新于 2024-02-07 08:29:17
 
 ## 近15天release更新记录
 | 更新时间 | 项目名称 | 版本 | 更新内容 |
@@ -63,11 +63,7 @@
 |2024-01-23 15:11:30|[clair](https://github.com/quay/clair)|build(deps): bump actions/cache from 3 to 4 Bumps  <br>from 3 to 4. -  -  -  --- updated-dependencies: - de<br>pendency-name: actions/cache dependency-type: direct<br>:production update-type: |
 |2024-01-23 06:03:38|[Elkeid](https://github.com/bytedance/Elkeid)|update:kmod ci|
 |2024-01-23 04:39:38|[domain_hunter_pro](https://github.com/bit4woo/domain_hunter_pro)|Create InternetSearchPanel.java|
-|2024-01-23 00:54:31|[afrog](https://github.com/zan8in/afrog)|update poc|
-|2024-01-22 15:03:18|[subfinder](https://github.com/projectdiscovery/subfinder)|Merge pull request #1138 from projectdiscovery/depe<br>ndabot/go_modules/v2/dev/github.com/projectdiscovery<br>/retryablehttp-go-1.0.44|
-|2024-01-22 10:40:27|[ObserverWard](https://github.com/0x727/ObserverWard)|合并冲突|
-|2024-01-22 02:52:06|[404StarLink](https://github.com/knownsec/404StarLink)|weekly update at 2024-01-22|
-|2024-01-22 01:37:37|[SmsForwarder](https://github.com/pppscn/SmsForwarder)|优化：校验自定义消息卡片Json是否合法|## 所有项目
+|2024-01-23 00:54:31|[afrog](https://github.com/zan8in/afrog)|update poc|## 所有项目
 # 安全
 ## CTF
 ### AWD

@@ -1,4 +1,4 @@
-# 更新于 2024-02-07 08:29:17
+# 更新于 2024-02-08 08:31:07
 
 ## 近15天release更新记录
 | 更新时间 | 项目名称 | 版本 | 更新内容 |
@@ -59,11 +59,7 @@
 |2024-01-24 16:28:34|[faker](https://github.com/joke2k/faker)|Update CONTRIBUTING.rst|
 |2024-01-24 11:55:30|[feroxbuster](https://github.com/epi052/feroxbuster)|docs: add ArthurMuraro as a contributor for bug (#1<br>069) * docs: update README.md [skip ci] * docs: upda<br>te .all-contributorsrc [skip ci] --------- Co-author<br>ed-by: allcontributors[bo|
 |2024-01-24 11:43:57|[Pillager](https://github.com/qwqdanchun/Pillager)|Update README.md|
-|2024-01-24 05:48:53|[safeline](https://github.com/chaitin/safeline)|Merge pull request #639 from chaitin/update_docs do<br>c: more clear|
-|2024-01-23 15:11:30|[clair](https://github.com/quay/clair)|build(deps): bump actions/cache from 3 to 4 Bumps  <br>from 3 to 4. -  -  -  --- updated-dependencies: - de<br>pendency-name: actions/cache dependency-type: direct<br>:production update-type: |
-|2024-01-23 06:03:38|[Elkeid](https://github.com/bytedance/Elkeid)|update:kmod ci|
-|2024-01-23 04:39:38|[domain_hunter_pro](https://github.com/bit4woo/domain_hunter_pro)|Create InternetSearchPanel.java|
-|2024-01-23 00:54:31|[afrog](https://github.com/zan8in/afrog)|update poc|## 所有项目
+|2024-01-24 05:48:53|[safeline](https://github.com/chaitin/safeline)|Merge pull request #639 from chaitin/update_docs do<br>c: more clear|## 所有项目
 # 安全
 ## CTF
 ### AWD

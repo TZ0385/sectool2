@@ -1,4 +1,4 @@
-# 更新于 2024-02-08 08:31:07
+# 更新于 2024-02-09 08:29:51
 
 ## 近15天release更新记录
 | 更新时间 | 项目名称 | 版本 | 更新内容 |
@@ -50,16 +50,7 @@
 |2024-01-25 09:15:41|[arthas](https://github.com/alibaba/arthas)|Prettified Code!|
 |2024-01-25 09:07:37|[jumpserver](https://github.com/jumpserver/jumpserver)|perf: 安全模式返回授权的资产|
 |2024-01-25 06:22:15|[frp](https://github.com/fatedier/frp)|update stale workflow|
-|2024-01-25 05:32:31|[vulnerability](https://github.com/lal0ne/vulnerability)|万户ezoffice text2Htm任意文件读取漏洞|
-|2024-01-24 21:51:42|[sliver](https://github.com/BishopFox/sliver)|Merge pull request #1568 from BishopFox/fix/downloa<br>d Fix download RPC|
-|2024-01-24 17:49:31|[beef](https://github.com/beefproject/beef)|Merge branch 'dependabot/bundler/selenium-webdriver<br>-4.17.0'|
-|2024-01-24 17:13:22|[PEASS-ng](https://github.com/carlospolop/PEASS-ng)|Merge pull request #407 from Esonhugh/master linpea<br>s Cloud.sh: support of Alibaba Cloud Enumeration|
-|2024-01-24 17:00:04|[Mobile-Security-F<br>ramework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)|Fix Arbitrary file writes on Windows (#2328)|
-|2024-01-24 16:35:35|[audacity](https://github.com/audacity/audacity)|Fix for undesired merging of loops|
-|2024-01-24 16:28:34|[faker](https://github.com/joke2k/faker)|Update CONTRIBUTING.rst|
-|2024-01-24 11:55:30|[feroxbuster](https://github.com/epi052/feroxbuster)|docs: add ArthurMuraro as a contributor for bug (#1<br>069) * docs: update README.md [skip ci] * docs: upda<br>te .all-contributorsrc [skip ci] --------- Co-author<br>ed-by: allcontributors[bo|
-|2024-01-24 11:43:57|[Pillager](https://github.com/qwqdanchun/Pillager)|Update README.md|
-|2024-01-24 05:48:53|[safeline](https://github.com/chaitin/safeline)|Merge pull request #639 from chaitin/update_docs do<br>c: more clear|## 所有项目
+|2024-01-25 05:32:31|[vulnerability](https://github.com/lal0ne/vulnerability)|万户ezoffice text2Htm任意文件读取漏洞|## 所有项目
 # 安全
 ## CTF
 ### AWD

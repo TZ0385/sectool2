@@ -1,4 +1,4 @@
-# 更新于 2024-02-09 08:29:51
+# 更新于 2024-02-10 08:30:05
 
 ## 近15天release更新记录
 | 更新时间 | 项目名称 | 版本 | 更新内容 |
@@ -43,14 +43,7 @@
 |2024-01-26 08:40:29|[murphysec](https://github.com/murphysecurity/murphysec)|fix: usage|
 |2024-01-26 06:29:52|[HackerPermKeeper](https://github.com/RuoJi6/HackerPermKeeper)|Add files via upload|
 |2024-01-26 05:55:21|[fofaEX](https://github.com/10cks/fofaEX)|Update README.md|
-|2024-01-26 01:41:30|[FingerprintHub](https://github.com/0x727/FingerprintHub)|Auto Update FingerPrint [Fri Jan 26 01:41:30 UTC 20<br>24] :robot:|
-|2024-01-25 21:09:25|[MemProcFS](https://github.com/ufrisk/MemProcFS)|Version 5.8.23|
-|2024-01-25 13:57:50|[codeql-cli-binari<br>es](https://github.com/github/codeql-cli-binaries)|Update changelog for 2.16.1|
-|2024-01-25 09:36:52|[FreeRDP](https://github.com/FreeRDP/FreeRDP)|[cmake] fix clang-format detection|
-|2024-01-25 09:15:41|[arthas](https://github.com/alibaba/arthas)|Prettified Code!|
-|2024-01-25 09:07:37|[jumpserver](https://github.com/jumpserver/jumpserver)|perf: 安全模式返回授权的资产|
-|2024-01-25 06:22:15|[frp](https://github.com/fatedier/frp)|update stale workflow|
-|2024-01-25 05:32:31|[vulnerability](https://github.com/lal0ne/vulnerability)|万户ezoffice text2Htm任意文件读取漏洞|## 所有项目
+|2024-01-26 01:41:30|[FingerprintHub](https://github.com/0x727/FingerprintHub)|Auto Update FingerPrint [Fri Jan 26 01:41:30 UTC 20<br>24] :robot:|## 所有项目
 # 安全
 ## CTF
 ### AWD

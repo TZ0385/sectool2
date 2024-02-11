@@ -1,4 +1,4 @@
-# 更新于 2024-02-10 08:30:05
+# 更新于 2024-02-11 08:34:28
 
 ## 近15天release更新记录
 | 更新时间 | 项目名称 | 版本 | 更新内容 |
@@ -29,21 +29,7 @@
 |2024-01-27 22:42:20|[ctf-archives](https://github.com/sajjadium/ctf-archives)|RealWorld chals|
 |2024-01-27 11:50:44|[gshark](https://github.com/madneal/gshark)|modify docker default password|
 |2024-01-27 06:58:22|[CTFd](https://github.com/CTFd/CTFd)|Allow hints and flags to contain JSON to allow for <br>better data control (#2460) Allow challenge CSV to c<br>ontain JSON in the hints and flags columns so that u<br>sers can insert more comp|
-|2024-01-27 03:18:21|[neuvector](https://github.com/neuvector/neuvector)|Merge pull request #1191 from becitsthere/main NVSH<br>AS-8590: Fix inconsistent scan status in non-lead co<br>ntroller|
-|2024-01-26 23:09:56|[mitaka](https://github.com/ninoseki/mitaka)|Merge pull request #789 from ninoseki/drop-hashdd c<br>hore: drop hashdd|
-|2024-01-26 20:42:11|[metasploit-framew<br>ork](https://github.com/rapid7/metasploit-framework)|Land #18680, Shared SMB Service Merge branch 'land-<br>18680' into upstream-master|
-|2024-01-26 17:16:26|[syft](https://github.com/anchore/syft)|internalize format helpers (#2543) Signed-off-by: A<br>lex Goodman |
-|2024-01-26 17:15:39|[grype](https://github.com/anchore/grype)|ensure releases only use released versions of syft <br>(#1680) Signed-off-by: Alex Goodman |
-|2024-01-26 17:10:19|[Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)|update doc|
-|2024-01-26 14:28:16|[dbeaver](https://github.com/dbeaver/dbeaver)|dbeaver/pro#2193 Allow ignoring quotes when using a<br>dvanced paste (#22564) * dbeaver/pro#2193 Allow igno<br>ring quotes when using advanced paste * dbeaver/pro#<br>2193 Fix paste not workin|
-|2024-01-26 11:22:26|[rustdesk](https://github.com/rustdesk/rustdesk)|revert https://github.com/rustdesk/rustdesk/pull/69<br>80|
-|2024-01-26 10:52:25|[trivy](https://github.com/aquasecurity/trivy)|docs: add note about Bun (#6001) Signed-off-by: knq<br>yf263  Co-authored-by: knqyf263 |
-|2024-01-26 09:41:27|[PyWxDump](https://github.com/xaoyaoo/PyWxDump)|UPDATE CHANGELOG.md|
-|2024-01-26 08:55:35|[logging-log4j2](https://github.com/apache/logging-log4j2)|Update org.assertj:assertj-core to version 3.25.2 (<br>#2244)|
-|2024-01-26 08:40:29|[murphysec](https://github.com/murphysecurity/murphysec)|fix: usage|
-|2024-01-26 06:29:52|[HackerPermKeeper](https://github.com/RuoJi6/HackerPermKeeper)|Add files via upload|
-|2024-01-26 05:55:21|[fofaEX](https://github.com/10cks/fofaEX)|Update README.md|
-|2024-01-26 01:41:30|[FingerprintHub](https://github.com/0x727/FingerprintHub)|Auto Update FingerPrint [Fri Jan 26 01:41:30 UTC 20<br>24] :robot:|## 所有项目
+|2024-01-27 03:18:21|[neuvector](https://github.com/neuvector/neuvector)|Merge pull request #1191 from becitsthere/main NVSH<br>AS-8590: Fix inconsistent scan status in non-lead co<br>ntroller|## 所有项目
 # 安全
 ## CTF
 ### AWD

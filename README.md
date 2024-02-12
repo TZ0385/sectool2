@@ -1,4 +1,4 @@
-# 更新于 2024-02-11 08:34:28
+# 更新于 2024-02-12 08:32:07
 
 ## 近15天release更新记录
 | 更新时间 | 项目名称 | 版本 | 更新内容 |
@@ -25,11 +25,7 @@
 |2024-01-28 10:21:47|[kube-bench](https://github.com/aquasecurity/kube-bench)|build(deps): bump k8s.io/client-go from 0.29.0 to 0<br>.29.1 (#1552) Bumps  from 0.29.0 to 0.29.1. -  -  --<br>- updated-dependencies: - dependency-name: k8s.io/cl<br>ient-go dependency-type: |
 |2024-01-28 09:01:11|[containerd](https://github.com/containerd/containerd)|Merge pull request #9675 from yanggangtony/clean-in<br>dent-for-containerd-config.toml Clean plugin indent <br>in containerd-config.toml.5.md|
 |2024-01-28 07:51:39|[DIE-engine](https://github.com/horsicq/DIE-engine)|Update module: Detect-It-Easy 2024-01-28|
-|2024-01-28 04:34:54|[dirsearch](https://github.com/maurosoria/dirsearch)|Merge pull request #1362 from jxdv/python-feats pyt<br>hon cleanup|
-|2024-01-27 22:42:20|[ctf-archives](https://github.com/sajjadium/ctf-archives)|RealWorld chals|
-|2024-01-27 11:50:44|[gshark](https://github.com/madneal/gshark)|modify docker default password|
-|2024-01-27 06:58:22|[CTFd](https://github.com/CTFd/CTFd)|Allow hints and flags to contain JSON to allow for <br>better data control (#2460) Allow challenge CSV to c<br>ontain JSON in the hints and flags columns so that u<br>sers can insert more comp|
-|2024-01-27 03:18:21|[neuvector](https://github.com/neuvector/neuvector)|Merge pull request #1191 from becitsthere/main NVSH<br>AS-8590: Fix inconsistent scan status in non-lead co<br>ntroller|## 所有项目
+|2024-01-28 04:34:54|[dirsearch](https://github.com/maurosoria/dirsearch)|Merge pull request #1362 from jxdv/python-feats pyt<br>hon cleanup|## 所有项目
 # 安全
 ## CTF
 ### AWD

@@ -1,4 +1,4 @@
-# 更新于 2024-02-12 08:32:07
+# 更新于 2024-02-13 08:30:54
 
 ## 近15天release更新记录
 | 更新时间 | 项目名称 | 版本 | 更新内容 |
@@ -7,25 +7,7 @@
 ## 近15天commit提交记录
 | 提交时间 | 项目名称 | 更新内容 |
 | :---- | :---- | :---- |
-|2024-01-29 00:25:44|[PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub)|Auto Update 2024/01/29 00:25:44|
-|2024-01-29 00:07:40|[volatility3](https://github.com/volatilityfoundation/volatility3)|Windows: Fix black on dumpfiles|
-|2024-01-29 00:00:04|[free](https://github.com/freefq/free)|updated_at 01-29 08:00|
-|2024-01-28 23:50:01|[nuclei](https://github.com/projectdiscovery/nuclei)|remove use of iterate() in flow (#4688)|
-|2024-01-28 23:47:07|[PocOrExp_in_Githu<br>b](https://github.com/ycdxsb/PocOrExp_in_Github)|update 2024-01-29 07:47:07|
-|2024-01-28 21:14:59|[ImHex](https://github.com/WerWolv/ImHex)|impr: Restructure various components much better (#<br>1520)|
-|2024-01-28 20:19:48|[locust](https://github.com/locustio/locust)|GH Actions: Run tests on windows (#2567) * GH Actio<br>ns: Enable testing on windows. * Correctly join path<br>s on windows. * Disable some tests on windows. * GH <br>actions started getting "|
-|2024-01-28 18:32:45|[anti-AD](https://github.com/privacy-protection-tools/anti-AD)|Auto renew the anti-AD list.|
-|2024-01-28 16:27:46|[PST-Bucket](https://github.com/arch3rPro/PST-Bucket)|dalfox: Update to version 2.9.2|
-|2024-01-28 16:21:35|[dalfox](https://github.com/hahwul/dalfox)|Update docker-publish.yml|
-|2024-01-28 14:17:11|[vulhub](https://github.com/vulhub/vulhub)|add remote debugging port for coldfusion|
-|2024-01-28 13:39:04|[GZCTF](https://github.com/GZTimeWalker/GZCTF)|New Crowdin updates (#212)|
-|2024-01-28 13:26:27|[WeChatMsg](https://github.com/LC044/WeChatMsg)|增加年度报告分享重复上传判断|
-|2024-01-28 12:30:55|[v2rayfree](https://github.com/aiboboxx/v2rayfree)|update|
-|2024-01-28 12:07:13|[ImageMagick](https://github.com/ImageMagick/ImageMagick)|include version header|
-|2024-01-28 10:21:47|[kube-bench](https://github.com/aquasecurity/kube-bench)|build(deps): bump k8s.io/client-go from 0.29.0 to 0<br>.29.1 (#1552) Bumps  from 0.29.0 to 0.29.1. -  -  --<br>- updated-dependencies: - dependency-name: k8s.io/cl<br>ient-go dependency-type: |
-|2024-01-28 09:01:11|[containerd](https://github.com/containerd/containerd)|Merge pull request #9675 from yanggangtony/clean-in<br>dent-for-containerd-config.toml Clean plugin indent <br>in containerd-config.toml.5.md|
-|2024-01-28 07:51:39|[DIE-engine](https://github.com/horsicq/DIE-engine)|Update module: Detect-It-Easy 2024-01-28|
-|2024-01-28 04:34:54|[dirsearch](https://github.com/maurosoria/dirsearch)|Merge pull request #1362 from jxdv/python-feats pyt<br>hon cleanup|## 所有项目
+## 所有项目
 # 安全
 ## CTF
 ### AWD
